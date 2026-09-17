@@ -1,0 +1,24 @@
+# 10_Chapter_2_The_Armchai
+
+## A TALE OF TWO SYNDROMES
+
+
+On the first day of December 2015, Halla Tómasdóttir got a call she never expected. The roof of Halla’s house had just given way to a thick layer of snow and ice. As she watched water pouring down one of the walls, the friend on the other end of the line asked if Halla had seen the Facebook posts about her. Someone had started a petition for Halla to run for the presidency of Iceland.
+
+Halla’s first thought was, Who am I to be president? She had helped start a university and then cofounded an investment firm in 2007. When the 2008 financial crisis rocked the world, Iceland was hit particularly hard; all three of its major private commercial banks defaulted and its currency collapsed. Relative to the size of its economy, the country faced the worst financial meltdown in human history, but Halla demonstrated her leadership skills by guiding her firm successfully through the crisis. Even with that accomplishment, she didn’t feel prepared for the presidency. She had no political background; she had never served in government or in any kind of public-sector role.
+
+It wasn’t the first time Halla had felt like an impostor. At the age of eight, her piano teacher had placed her on a fast track and frequently asked her to play in concerts, but she never felt she was worthy of the honor—and so, before every concert, she felt sick. Although the stakes were much higher now, the self-doubt felt familiar. “I had a massive pit in my stomach, like the piano recital but much bigger,” Halla told me. “It’s the worst case of adult impostor syndrome I’ve ever had.” For months, she struggled with the idea of becoming a candidate. As her friends and family encouraged her to recognize that she had some relevant skills, Halla was still convinced that she lacked the necessary experience and confidence. She tried to persuade other women to run—one of whom ended up ascending to a different office, as the prime minister of Iceland.
+
+Yet the petition didn’t go away, and Halla’s friends, family, and colleagues didn’t stop urging her on. Eventually, she found herself asking, Who am I not to serve? She ultimately decided to go for it, but the odds were heavily stacked against her. She was running as an unknown independent candidate in a field of more than twenty contenders. One of her competitors was particularly powerful—and particularly dangerous.
+
+When an economist was asked to name the three people most responsible for Iceland’s bankruptcy, she nominated Davíð Oddsson for all three spots. As Iceland’s prime minister from 1991 to 2004, Oddsson put the country’s banks in jeopardy by privatizing them. Then, as governor of Iceland’s central bank from 2005 to 2009, he allowed the banks’ balance sheets to balloon to more than ten times the national GDP. When the people protested his mismanagement, Oddsson refused to resign and had to be forced out by Parliament. Time magazine later identified him as one of the twenty-five people to blame for the financial crisis worldwide. Nevertheless, in 2016 Oddsson announced his candidacy for the presidency of Iceland: “My experience and knowledge, which is considerable, could go well with this office.”
+
+In theory, confidence and competence go hand in hand. In practice, they often diverge. You can see it when people rate their own leadership skills and are also evaluated by their colleagues, supervisors, or subordinates. In a meta-analysis of ninety-five studies involving over a hundred thousand people, women typically underestimated their leadership skills, while men overestimated their skills.
+
+You’ve probably met some football fans who are convinced they know more than the coaches on the sidelines. That’s the armchair quarterback syndrome, where confidence exceeds competence. Even after calling financial plays that destroyed an economy, Davíð Oddsson still refused to acknowledge that he wasn’t qualified to coach—let alone quarterback. He was blind to his weaknesses.
+
+Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nast
+
+The opposite of armchair quarterback syndrome is impostor syndrome, where competence exceeds confidence. Think of the people you know who believe that they don’t deserve their success. They’re genuinely unaware of just how intelligent, creative, or charming they are, and no matter how hard you try, you can’t get them to rethink their views. Even after an online petition proved that many others had confidence in her, Halla Tómasdóttir still wasn’t convinced she was qualified to lead her country. She was blind to her strengths.
+
+Although they had opposite blind spots, being on the extremes of confidence left both candidates reluctant to rethink their plans. The ideal level of confidence probably lies somewhere between being an armchair quarterback and an impostor. How do we find that sweet spot?

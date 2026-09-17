@@ -1,0 +1,21 @@
+# CHAPTER SIX Identity fraud
+
+
+## The impact of identity fraud on victims
+
+
+I asked Estok to describe the impact that being a victim of identity theft had on her life:
+
+‘Circumstances forced my family and me to abruptly leave the US and return to Venezuela to secure a new work visa after mine was suddenly revoked. The uncertainty of not knowing why compounded the stress. The subsequent revelation at the American Embassy in Caracas – that a criminal was using my identity to smuggle women into the US – left me shocked. What followed went beyond anything I could have imagined.
+
+Those six long years were an absolute nightmare. Being constantly misunderstood, subjected to scrutiny, and doubted I was the real me over and over was more than just a hurdle; it became a deeply personal battle. This phase eroded my self-esteem, shook my faith in the system, threatened my marriage and career, and weighed heavily on my health and mental well-being.
+
+We all assume identity theft won't happen to us... until it does. In my case this adversity ignited a passion within me to prevent others from learning this the hard way. We must be mindful, stay alert, and value our precious personal data.’
+
+Estok’s experience is scary enough, but it becomes scarier when we understand the scale of identity theft and fraud. The United States Department of Justice reported that, in 2021, 23.9 million people (9 per cent of US residents aged 16 or over) were victims of identity theft during the previous 12 months. Of those, 59 per cent had financial losses, which totalled $16.4 billion that year. That is a lot of money going into the hands of criminals. Victims do not just experience financial losses, but can experience an emotional impact too: 10 per cent of the victims in the Department of Justice report were severely distressed because of the crime. The report goes on to highlight that 22 per cent of people in the United States – more than 1 in 5 – had experienced identity theft in their lifetime.2
+
+This bleak picture is not restricted to the United States. Research in the UK shows that 24 per cent of UK citizens have been a victim of identity fraud, which is the highest figure in Europe. 63 per cent of victims suffered from financial loss and on average, it takes UK victims 7 months to realize they have been a victim and more than three more months to resolve the situation.3 Sometimes, as in the case of Sandra Estok, these two phases can take many years.
+
+Victims of identity fraud can be left dealing with the fallout, with companies and debt collectors holding them responsible for purchases and financial agreements made fraudulently in their name. In May 2023, Dean Allen discovered that he had been a victim of identity fraud with his details used to take out three mobile phone contracts with the UK telecom company O2. Allen reported the crime to the police and the UK’s Action Fraud but continued to receive default notices, saying that it took 55 emails with O2 and other bodies to sort out the issue. Allen, who described how he ‘dreaded coming home’, had his case upheld by the UK’s Communications Ombudsman after five months, with O2 apologizing and updating his credit file so that he was no longer held accountable for crimes conducted in his name.4
+
+Being a victim of cyber crime and identity theft can lead to people feeling paralyzed, ashamed, traumatized and undermined. The psychological impact of identity theft is often overlooked, with more focus on the financial ramifications for victims. However, the emotional impact can be very challenging. Research from the Identity Theft Resource Centre suggests that victims are finding the psychological impact of identity theft increasingly difficult to deal with: 87 per cent of victims reported that the incident left them feeling worried or anxious, 63 per cent sad or depressed and – most concerning of all – the number of those contemplating suicide as a result of the crime rose from 8 per cent in 2020 to 16 per cent in 2022.5

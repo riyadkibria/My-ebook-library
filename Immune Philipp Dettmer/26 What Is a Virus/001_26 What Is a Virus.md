@@ -1,0 +1,44 @@
+# 26 What Is a Virus
+
+## 26 What Is a Virus
+
+
+Viruses are the simplest of all self-replicating sorts of living things, although, depending on who you ask, they may not even be considered alive. We talked about the lack of consciousness and awareness of your cells. That they are just really complex piles of biochemistry that do what the genetic code and the chemical reactions between their parts compel them to do. Bacteria are the same, protein robots able to do amazing things, although, in a sense, they could be considered a bit less sophisticated.
+
+Viruses are not even that. The fact that a virus is able to do anything at all is equally depressing and fascinating. A virus is not much more than a hull filled with a few lines of genetic code and a few proteins. They completely rely on proper living things to stick around.
+
+And they got extremely good at that.
+
+It is not clear yet when or how exactly viruses came into existence, but it is very likely that they are ancient and already existed when the last common ancestor of all living things on earth was alive, billions of years ago. Some scientists think viruses were essential steps in the emergence of life, others think they are the result of an ancient bacterium taking the path of becoming simpler instead of more complex around 1.5 billion years ago. According to this idea, they were living beings that opted out of the life game and decided to save the effort and energy of constructing a functioning cell and instead started to rely on others to do all the hard work.
+
+Whatever the truth is, viruses turned out to be incredibly successful. In fact, viruses are arguably the most successful entity on the planet. It is estimated that there are 10 31 viruses on earth. Ten thousand billion, billion, billion individual viruses. *1
+
+How did viruses become so successful, how did they do this? Well, in a sense, they don’t do anything at all. They don’t have a metabolism, they don’t react to stimuli, and they can’t multiply. Viruses are so basic that they have no way to actively do anything. They are literally particles floating around in the environment and have to rely on passively stumbling into victims by pure random chance.
+
+If all other forms of life were to go extinct, viruses would disappear with them. So they need cells, proper living, active cells that do all that being-alive stuff for them. Some scientists even suggest that we consider a virus particle more as a reproductive stage, like a sperm cell, and a cell that is infected by the virus as its true living form. In any case, viruses are specialized to be vicious and sneaky intruders because obviously cells don’t want to be infected by them. The main thing a virus needs to be able to do to thrive is to get inside cells. And for that they abuse a weak point of all cells that living things will never be able to completely protect against: They attack receptors.
+
+We already talked a bunch about receptors, they are the protein-recognition parts that cover about half of the surface of cells. But receptors can do much more. They are used for interacting with the environment, to transport things from the inside to the outside and vice versa, and they are absolutely essential. The hulls of viruses are spiked with special proteins that can connect to a receptor type on their victims’ surface. This means that viruses can’t attach to just any cell—only to the ones that have a receptor they can attach to. In a sense every virus has a lot of puzzle-piece proteins that can only connect to a cell if it happens to have the correct puzzle-piece receptor.
+
+Viruses are specialists, not generalists, and have preferred prey. Which is good because as we have established, there are a lot of viruses—but only about 200 different species infect us humans.
+
+Once a virus gets in contact with the kind of cell it is looking for, it quietly takes it over. How a virus does this varies a lot from species to species, but in general a virus transfers its genetic material into its victim and forces the cell to stop making cell stuff. It is turned into a virus production machine. Some viruses keep their victims alive as sort of permanent living virus factories while others use up the cell as fast as possible. Usually for about 8 to 72 hours, the resources of the cell are turned into virus parts that get assembled into new viruses, until the cell is filled up, top to bottom, with hundreds to tens of thousands of new viruses.
+
+Enveloped viruses leave the cell by budding from it, which means that they “pinch off” a bit of the cell’s membrane and use it as an extra protective hull. Other viruses force the infected cell to dissolve and spill out its insides, including the new army of viruses it was brainwashed into building, which then go on to infect more cells.
+
+If cells were conscious, viruses would be terrifying to them. Imagine spiders that don’t crawl on walls, but passively float around the air, hoping to get into your mouth when you are not careful for a moment, crawling into your brain and forcing your insides to produce hundreds of new baby spiders until all your body is filled with them. And then your skin would burst open and all these new spiders would try to get your family and friends. This is literally what viruses do to cells.
+
+Pathogenic viruses are excellent at circumventing the immune system because they have a superpower: Nothing multiplies as fast as they do. And that also means that nothing mutates or changes as fast as viruses. They are basically impossible to beat on that front because they are sloppy and careless. Viruses are so basic that they lack most of the intricate safeguards your cells have to prevent mutations, so they mutate all the time .
+
+In general, the chance that a mutation is bad for an organism is higher than the chance that it is positive. But viruses don’t care: Through the sheer incredible rate of reproduction and high numbers of individuals they produce in each reproductive cycle, with each infected cell, the chances that among a few thousand mutations, one is extremely beneficial and able to make a virus significantly better suited to survive is pretty high. It’s the old evolution, brute-force, throw-shit-at-the-wall-until-something-sticks approach. And it’s quite effective. *2
+
+Your immune system can’t rely on the same weapons to fight a viral infection that it uses to fight bacteria as both the enemy and its tactics are very different. A virus is smaller and somewhat harder to detect than bacteria because it doesn’t have a metabolism that releases garbage chemicals that can be picked up by immune cells. And it hides inside cells for most of its life cycle and tries to manipulate infected cells to trick the immune system to stand down. It can change much more quickly than bacteria and a single virus can turn into ten thousand within a day, turning on exponential growth rapidly. Pathogenic viruses are terrifyingly dangerous enemies.
+
+So it is no wonder that your immune system has invested heavily in antivirus defenses.
+
+But before we get to know our weapons, let us visit another mucosa kingdom, the main entry point for viruses. The majority of pathogenic viruses enter your body via your respiratory mucosa. And this makes sense—as we briefly talked about, your Desert Kingdom of the Skin is a really, really bad place to be if you are a virus that wants to invade human cells. Layers and layers of dead cells stacked on top of each other. In contrast, the mucosa of your lung is a very inviting entry point for a virus. This does not mean it is easy to enter here—just like the skin, the body created a powerful defensive kingdom here.
+
+Skip Notes
+
+*1 If we somehow collected them and laid them end to end, they would stretch for 100 million light-years—as many as 500 Milky Way galaxies put next to each other. In the oceans alone, every single second, one hundred thousand billion, billion cells get infected by viruses. So many, actually, that up to 40% of all bacteria in the oceans are killed by virus infections every single day. And even more, even your most intimate self is not safe from viruses: About 8% of your DNA is made of remnants of viral DNA. We’ll stop with the large numbers now because nobody can picture this stuff anyway. Let us just agree that there are a whole lot of viruses on earth and they seem to be doing quite all right. The fact that some apes with pants are discussing if they are alive or not could not be more irrelevant to them.
+
+*2 Actually this is the only trick evolution has. It tries a lot of things and whatever does not die before it makes a few offspring gets another attempt at making offspring before dying. Repeat this often enough and you get the amazing variety of living things on earth. And new strains of cold viruses every season. So basically it’s a mixed bag.

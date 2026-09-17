@@ -1,0 +1,10 @@
+# 12_chapter002
+
+## DOW THEORY APPLIED TO FUTURES TRADING
+
+
+Dow’s work considered the behavior of stock averages. While most of that original work has significant application to commodity futures, there are some important distinctions between stock and futures trading. For one thing, Dow assumed that most investors follow only the major trends and would use intermediate corrections for timing purposes only. Dow considered the minor or near term trends to be unimportant. Obviously, this is not the case in futures trading in which most traders who follow trends trade the intermediate instead of the major trend. These traders must pay a great deal of attention to minor swings for timing purposes. If a futures trader expected an intermediate uptrend to last for a couple of months, he or she would look for short term dips to signal purchases. In an intermediate downtrend, the trader would use minor bounces to signal short sales. The minor trend, therefore, becomes extremely important in futures trading.
+
+NEW WAYS TO TRADE THE DOW AVERAGES
+
+For the first 100 years of its existence, the Dow Jones Industrial Average could only be used as a market indicator. That all changed on October 6, 1997 when futures and options began trading on Dow’s venerable average for the first time. The Chicago Board of Trade launched a futures contract on the Dow Jones Industrial Average, while options on the Dow (symbol: DJX) started trading at the Chicago Board Options Exchange. In addition, options were also launched on the Dow Jones Transportation Average (symbol: DJTA) and the Dow Jones Utility Index (symbol: DJUA). In January 1998, the American Stock Exchange started trading the Diamonds Trust, a unit investment trust that mimics the 30 Dow industrials. In addition, two mutual funds were offered based on the 30 Dow benchmark. Mr. Dow would probably be happy to know that, a century after their creation, it would now be possible to trade his Dow averages, and actually put his Dow Theory into practice.

@@ -1,0 +1,45 @@
+# CHAPTER TEN Ransomware
+
+
+## Borders in a borderless crime
+
+
+With the disbanding of DarkSide citing pressure from the US, the action against Maze/Egregor and the occasional international arrest of cyber criminals, the obvious question is: why is law enforcement not more successful in disbanding and apprehending these criminal enterprises?
+
+A cyber attack can spread around the world in minutes. The infrastructure of the internet is global by design and the decentralized nature of cryptocurrency allows for funds to be moved around the world, including profits from cyber crime. Before the advent of connected technology, crime was generally localized, with the perpetrator and victim in the same place, but with cyber crime the perpetrator and the victim are often on different sides of the world. While cyber crime is borderless, efforts to tackle it are either aided or impeded by the relationships between different countries.
+
+Attribution is a common challenge in cyber attacks. Identifying who is behind the code is often very difficult, if not impossible. Tracing attacks through the flow of cryptocurrency is challenging, as Hamilton explains:
+
+‘In the case of the big ransomware groups, you get quite sophisticated money laundering with very thin profiles attached to all of the records involved in the process and the amount of discovery orders, subpoenas – however you get the information from the exchanges, the amount of analysis that needs to be done – it’s a very significant effort and that’s why it’s done against the groups that will have most impact removing them.’
+
+However, even when the perpetrators have been identified and evidence is clear, taking legal action on those criminals often comes down to matters of jurisdiction. If the person – or group – committing the crime is not within the country or legal jurisdiction of the court, then there is no legal ability for the victim’s country to arrest or prosecute the perpetrator. Many countries have established reciprocal legal rules with allies when it comes to cyber crime, but the West does not have such agreements with China or Russia.
+
+It is commonly understood that criminal hackers in Russia are given free rein by the state, as long as they do not attack Russian citizens. Indeed, this goes beyond the Russian state simply turning a blind eye to cyber crime being conducted on its shores, with the government actively sponsoring some of the activity. In April 2021, the United States Treasury Department acknowledged this connection, stating:
+
+‘To bolster its malicious cyber operations, the FSB cultivates and co-opts criminal hackers, including the previously designated Evil Corp, enabling them to engage in disruptive ransomware attacks and phishing campaigns.’27
+
+Evil Corp emerged in the late 2000s, they are based out of Russia and regarded as one of the most capable cyber crime organizations in the world. They developed Dridex (also known as Bugat) malware, as well as BitPaymer and WastedLocker ransomware variants, operating with impunity for at least a decade and becoming known as ‘some of the most infamous and flashiest hackers on the planet’.28 Evil Corp spread Dridex with phishing emails, attacking hundreds of banks and financial institutions across 40 countries to steal over $100 million.
+
+Compromising a wide range of targets, Evil Corp have attacked companies in the healthcare, non-profit, education, finance, government, media and manufacturing sectors. In December 2019, Maksim Yakubets (aka ‘aqua’ and ‘aquamo’) was named leader of Evil Corp, alongside Igor Turashev as a member of the gang, in a collaborative law enforcement effort between the UK and the US. The UK’s National Crime Agency posted a Twitter thread sharing the FBI wanted poster for Yakubets alongside multiple photos of Evil Corp members with piles of cash, exotic animals and luxury cars – including a photograph of Yakubets talking to a Russian police officer while next to his customized Lamborghini with a number plate that translates to ‘Thief’.29
+
+The US is the victim of 43 per cent of all global ransomware attacks, and the UK is next in line.30 In the US, the average ransom payment at the time of writing (in October 2023) is $2,179,457.31 Meanwhile, more Russian individuals and organizations have been sanctioned and indicted by the West than those of any other nationality. With the UK and the US joint effort to tackle Evil Corp, Yakubets and Turashev became the latest Russian individuals to be named as cyber criminals by the US Government, sanctioned (freezing any Western assets that they hold and barring them from doing business with Western firms) and indicted (banning them from travel).
+
+Sanctions have become a core part of the Western response to ransomware, but a core question is yet to be determined: do they work? When I interviewed Pete Cooper, former deputy director for the UK Cabinet Office, we explored this question. Here is what he had to say:
+
+‘One of the key challenges with sanctions against threat actors is, how much do they care when they’re outside extradition reach? And, what is the tangible measure of success that sanctions give you over the long term? We’ve got a lever but we don’t know if it’s working or not.’
+
+On top of the indictments and sanctions, a $5 million bounty was offered for information leading to Yakubets’ arrest, topping the record-breaking sum that was offered for Bogachev in 2015. It is not surprising that before leading Evil Corp, Yakubets was associated with Bogachev, who we met in the previous chapter as the cyber criminal responsible for ZeuS, JabberZeuS and GameOver ZeuS. Both are believed to have worked for the Russian FSB.
+
+The relationship between the Russian state and their homegrown criminal enterprises is why the response to the ransomware attack on Kaseya in 2021 was so surprising.
+
+At the start of the Fourth of July weekend in 2021, a ransomware attack on software provider Kaseya was estimated to affect thousands of other organizations around the world, after criminals breached Kaseya via a zero-day vulnerability in a remote computer management tool (for more on zero days, see Chapter 3). In the days following attack, the RaaS group REvil (short for Ransomware Evil) boasted that they had launched the attack on Kaseya, resulting in one million systems being infected. They placed the price of decryption at $70 million in Bitcoin, promising that this would unlock all of the data they were holding hostage. The incident was described as the biggest global ransomware attack on record, with victims on all continents and in sectors spanning financial services, the public sector, IT services and more, with 800 Swedish Co-op grocery stores having to close because their cash register software supplier could not function.32 Many small businesses such as dentists, architecture firms and libraries were impacted, reliant on Kaseya as their IT service provider.
+
+REvil was believed to be a Russian RaaS operation, who claimed to make an annual revenue of $100 million. As well as the attack on Kaseya, they were also responsible for ransomware attacks on meat supplier JBS and on Quanta Computer, an Apple supplier, which enabled them to steal Apple blueprints. Highlighting the strategic approach taken by many of these gangs, REvil seemingly adjusted their ransom request based on the annual revenue of the victim organization. The REvil ransomware was one of the most prominent in 2021 and as such, in November 2021, the US Department of State offered a reward of up to £10 million for information leading to REvil gang members.
+
+In January 2022, Russian authorities stated that they had dismantled REvil and charged 14 members of the group, halting their operations and seizing millions of roubles, some cryptocurrency and luxury cars. The Russian authorities stated that they had made the arrests using information provided by US authorities, with the operation marking the first time in years that the US and Russia collaborated on a cyber crime operation.
+
+Three months later, in April 2022, the old REvil victim site came back to life, forwarding to a new site that featured old and new victims as well as a recruitment advert for new affiliates that promised a new, improved version of the previous REvil ransomware.
+
+This tendency of ransomware operations to rebrand when it is convenient for them causes another tension with the use of sanctions, which restrict companies in the country issuing the sanction from transferring funds to those who have been sanctioned. As Cooper said in our conversation:
+
+‘As the victim, understanding the layers below the attack of “who” has ransomwared you is hard. Are they sanctioned? If you pay, are you breaking the law? Would anything happen if you did? We are only at the start of understanding the long-term legal complexity.’

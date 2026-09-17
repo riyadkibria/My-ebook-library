@@ -1,0 +1,21 @@
+# CHAPTER THIRTEEN Artificial intelligence
+
+
+## Introduction
+
+
+It was a Friday afternoon like any other when Jennifer DeStefano received a phone call that plunged her into ‘a parent’s worst nightmare’. As she took two of her children to a dance rehearsal in their home in Arizona, her husband was in another part of the state with their oldest daughter, Brie, and their youngest son. DeStefano received a call from an unknown number, expecting it to be the doctor’s or maybe the hospital. Instead, she heard Brie’s voice, crying and distressed. An unknown man’s voice gruffly interrupted, barking orders at Brie, before her daughter called out ‘MOM THESE BAD MEN HAVE ME, HELP ME, HELP ME!!’ Making threats of violence and sexual assault, the man on the phone demanded $1 million for Brie’s safe return.
+
+DeStefano, distraught and panicked, began negotiations, while DeStefano’s youngest daughter, Aubrey, tried to get hold of her father. The other mothers at the dance studio called the police. The kidnappers agreed to lower the ransom to $50,000 but with the demand that DeStefano handed it over herself, agreeing to be picked up in a white van and having a bag placed over her head. DeStefano stalled as much as she could. The police said that they were familiar with a scam that uses your loved one’s voice to fake a kidnapping. As DeStefano continued to negotiate with the kidnappers, making arrangements to pay for Brie’s safe return, Aubrey was able to reach her father who frantically located Brie. She was safe and well, with no idea what was happening.
+
+In the wake of this experience, other people contacted DeStefano to share similar stories, but the police seemingly dismissed the experience as a prank, confirming that they have received reports of this happening often and telling DeStefano that she and her family were probably not in danger.
+
+DeStefano, who testified to the US Senate on the topic of artificial intelligence and human rights, spoke of the impact this experience had on her:
+
+‘This is terrorizing with lasting post-traumatic stress. Even months later, sharing the story shakes me to my core. It was my daughter’s voice. It was her cries, her sobs. It was the way she spoke. I will never be able to shake that voice out of my mind.’1
+
+The psychological impact of scams and manipulation is overlooked, but if we put ourselves in DeStefano’s shoes, it is hard to imagine just how distressing it would be to have heard a loved one’s voice in such distress, to have believed they were in extreme danger and, for a chance of getting their safe return, we would have to turn ourselves over to the same people with only the hope that you and your loved one would come out of the experience unharmed.
+
+And then to be told it is all a scam, made possible through artificial intelligence. Brie DeStefano’s voice was replicated using deepfake technology, in which fake audio or video can be created, replacing one person’s likeness with another’s. They can make me look and sound like you, and vice versa, using machine learning and artificial intelligence. DeStefano’s experience is not the only report where deepfake technology appears to have been used in the latest evolution of social engineering, with many other cases starting to be reported. In March 2023, Charles Gillen was arrested on the tarmac at St John’s International Airport in Newfoundland, Canada, carrying $200,000. It is alleged that this money came from a scam in which at least eight senior citizens were defrauded over a three-day period with phone calls that appeared to be coming from their grandchildren. In each call, the grandchildren were heard saying that they had been in an accident, that drugs were found in the car with them, and that they needed money to either pay for bail or legal fees. The grandparents were all convinced, after hearing the voice of their grandchild on the phone, to hand cash over to a man who came to their home and collected envelopes of money.2
+
+How did we get here, to the point where artificial intelligence can be used to create fake convincing versions of something as unique as our voices and faces?

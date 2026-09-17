@@ -1,0 +1,10 @@
+# 15_chapter005
+
+## FINDING A PRICE OBJECTIVE
+
+
+The method of arriving at a price objective is based on the height of the pattern. Take the vertical distance from the head (point C) to the neckline. Then project that distance from the point where the neckline is broken. Assume, for example, that the top of the head is at 100 and the neckline is at 80. The vertical distance, therefore, would be the difference, which is 20. That 20 points would be measured downward from the level at which the neckline is broken. If the neckline in Figure 5.1a is at 82 when broken, a downside objective would be projected to the 62 level (82 – 20=62).
+
+Another technique that accomplishes about the same task, but is a bit easier, is to simply measure the length of the first wave of the decline (points C to D) and then double it. In either case, the greater the height or volatility of the pattern, the greater the objective. Chapter 4 stated that the measurement taken from a trendline penetration was similar to that used in the head and shoulders pattern. You should be able to see that now. Prices travel roughly the same distance below the broken neckline as they do above it. You’ll see throughout our entire study of price patterns that most price targets on bar charts are based on the height or volatility of the various patterns. The theme of measuring the height of the pattern and then projecting that distance from a breakout point will be constantly repeated.
+
+It’s important to remember that the objective arrived at is only a minimum target. Prices will often move well beyond the objective. Having a minimum target to work with, however, is very helpful in determining beforehand whether there is enough potential in a market move to warrant taking a position. If the market exceeds the price objective, that’s just icing on the cake. The maximum objective is the size of the prior move. If the previous bull market went from 30 to 100, then the maximum downside objective from a topping pattern would be a complete retracement of the entire upmove all the way down to 30. Reversal patterns can only be expected to reverse or retrace what has gone before them.

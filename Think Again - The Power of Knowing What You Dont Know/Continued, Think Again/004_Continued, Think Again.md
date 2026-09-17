@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* Pay isn’t a carrot we need to dangle to motivate people—it’s a symbol of how much we value them. Managers can motivate people by designing meaningful jobs in which people have freedom, mastery, belonging, and impact. They can show appreciation by paying people well.

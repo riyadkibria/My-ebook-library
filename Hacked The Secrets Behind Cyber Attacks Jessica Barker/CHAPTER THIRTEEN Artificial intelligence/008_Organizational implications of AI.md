@@ -1,0 +1,11 @@
+# CHAPTER THIRTEEN Artificial intelligence
+
+
+## Organizational implications of AI
+
+
+On 15 January 2020, the branch manager of a Japanese company in Hong Kong received emails and a phone call from the director of the company, reaching him from their headquarters. These communications informed the branch manager that they were acquiring another company and introducing the branch manager to a lawyer who would coordinate the acquisition activities. All paperwork subsequently coming from the lawyer seemed to be in order and so, when the lawyer instructed the branch manager to authorize transfers of $35 million to secure the acquisition, the branch manager began to do so.18 Why would he not? He had not only received emails from his boss – the company director – but he had also spoken with him on the phone. Or, rather, he had spoken with a deepfake mimic of his boss, and this was an elaborate global fraud using AI to make the social engineering more convincing.
+
+This is not the first report of deepfake technology being used as the next iteration of business email compromise (see Chapter 1). The first reported case of deepfake technology being used in a scam was in August 2019, in a case with similarities to the one above. The CEO of a UK energy firm received a call that seemed to be from his boss, the CEO of the firm’s parent company in Germany, who asked him to urgently send funds to a supplier. After the victim complied, he received another call saying the funds had not been received and he should make a further payment; because this call was from an Austrian phone number, the victim became suspicious, did not make the second payment and the deepfake scam was identified. The transferred funds were subsequently tracked through a bank account in Hungary, to Mexico and then on to other locations.19
+
+With social engineering such a common component of cyber attacks, it is an unfortunate inevitability that cyber criminals will make increasing use of deepfake technology to scam companies. At the moment, their less sophisticated methods of impersonation are working well enough for them. But, as our awareness and defences evolve, so will their methods and the return on investment will become worthwhile for them to start leveraging AI more and more.

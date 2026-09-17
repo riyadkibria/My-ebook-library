@@ -1,0 +1,22 @@
+# 15_Chapter_6_Bad_Blood_o
+
+## FITTING IN AND STANDING OUT
+
+
+For decades psychologists have found that people can feel animosity toward other groups even when the boundaries between them are trivial. Take a seemingly innocuous question: is a hot dog a sandwich? When students answered this question, most felt strongly enough that they were willing to sacrifice a dollar to those who agreed with them to make sure those who disagreed got less.
+
+In every human society, people are motivated to seek belonging and status. Identifying with a group checks both boxes at the same time: we become part of a tribe, and we take pride when our tribe wins. In classic studies on college campuses, psychologists found that after their team won a football game, students were more likely to walk around wearing school swag. From Arizona State to Notre Dame to USC, students basked in the reflected glory of Saturday victories, donning team shirts and hats and jackets on Sunday. If their team lost, they shunned school apparel, and distanced themselves by saying “they lost” instead of “we lost.” Some economists and finance experts have even found that the stock market rises if a country’s soccer team wins World Cup matches and falls if they lose.*
+
+Rivalries are most likely to develop between teams that are geographically close, compete regularly, and are evenly matched. The Yankees and Red Sox fit this pattern: they’re both on the East Coast, they play each other eighteen or nineteen times a season, they both have histories of success, and as of 2019, they had competed over 2,200 times—with each team winning over 1,000 times. The two teams also have more fans than any other franchises in baseball.
+
+I decided to test what it would take to get fans to rethink their beliefs about their bitter rivals. Working with a doctoral student, Tim Kundro, I ran a series of experiments with passionate Yankees and Red Sox supporters. To get a sense of their stereotypes, we asked over a thousand Red Sox and Yankees fans to list three negative things about their rivals. They mostly used the same words to describe one another, complaining about their respective accents, their beards, and their tendency to “smell like old corn chips.”
+
+WHY RED SOX FANS HATE YANKEES FANS
+
+WHY YANKEES FANS HATE RED SOX FANS
+
+Once we’ve formed those kinds of stereotypes, for both mental and social reasons it’s hard to undo them. Psychologist George Kelly observed that our beliefs are like pairs of reality goggles. We use them to make sense of the world and navigate our surroundings. A threat to our opinions cracks our goggles, leaving our vision blurred. It’s only natural to put up our guard in response—and Kelly noticed that we become especially hostile when trying to defend opinions that we know, deep down, are false. Rather than trying on a different pair of goggles, we become mental contortionists, twisting and turning until we find an angle of vision that keeps our current views intact.
+
+Socially, there’s another reason stereotypes are so sticky. We tend to interact with people who share them, which makes them even more extreme. This phenomenon is called group polarization, and it’s been demonstrated in hundreds of experiments. Juries with authoritarian beliefs recommend harsher punishments after deliberating together. Corporate boards are more likely to support paying outlandish premiums for companies after group discussions. Citizens who start out with a clear belief on affirmative action and gay marriage develop more extreme views on these issues after talking with a few others who share their stance. Their preaching and prosecuting move in the direction of their politics. Polarization is reinforced by conformity: peripheral members fit in and gain status by following the lead of the most prototypical member of the group, who often holds the most intense views.
+
+Grow up in a family of Red Sox fans and you’re bound to hear some unpleasant things about Yankees fans. Start making regular trips to a ballpark packed with people who share your loathing, and it’s only a matter of time before your contempt intensifies and calcifies. Once that happens, you’re motivated to see the best in your team and the worst in your opponent. Evidence shows that when teams try to downplay a rivalry by reminding fans that it’s just a game, it backfires. Fans feel their identity is being devalued and actually become more aggressive. My first idea for disrupting this pattern came from outer space.

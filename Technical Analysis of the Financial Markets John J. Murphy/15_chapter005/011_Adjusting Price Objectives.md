@@ -1,0 +1,8 @@
+# 15_chapter005
+
+## Adjusting Price Objectives
+
+
+A number of other factors should be considered while trying to arrive at a price objective. The measuring techniques from price patterns, such as the one just mentioned for the head and shoulders top, are only the first step. There are other technical factors to take into consideration. For example, where are the prominent support levels left by the reaction lows during the previous bull move? Bear markets often pause at these levels. What about percentage retracements? The maximum objective would be a 100% retracement of the previous bull market. But where are the 50% and 66% retracement levels? Those levels often provide significant support under the market. What about any prominent gaps underneath? They often function as support areas. Are there any long term trendlines visible below the market?
+
+The technician must consider other technical data in trying to pinpoint price targets taken from price patterns. If a downside price measurement, for example, projects a target to 30, and there is a prominent support level at 32, then the chartist would be wise to adjust the downside measurement to 32 instead of 30. As a general rule, when a slight discrepancy exists between a projected price target and a clearcut support or resistance level, it’s usually safe to adjust the price target to that support or resistance level. It is often necessary to adjust the measured targets from price patterns to take into account additional technical information. The analyst has many different tools at his or her disposal. The most skillful technical analysts are those who learn to blend all of those tools together properly.

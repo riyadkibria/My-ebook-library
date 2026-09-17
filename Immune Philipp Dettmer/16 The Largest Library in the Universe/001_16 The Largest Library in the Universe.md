@@ -1,0 +1,20 @@
+# 16 The Largest Library in the Universe
+
+## 16 The Largest Library in the Universe
+
+
+It was no coincidence that when the Adaptive Immune System showed up, the desperate battle turned into a brutal bloodbath that devastated the invading bacteria. They never had a chance because the reinforcing cells and Antibodies were born to fight them specifically. Right now your Adaptive Immune System has a specific weapon against every possible enemy in the universe. For every single infection that has ever existed in the past, for all of them in the world right now, and for every single one that might emerge in the future but does not even exist yet. In a way, the largest library in the universe.
+
+Wait. What? How? And why? Well, because it is necessary.
+
+Microorganisms have a huge advantage over us meat giants. Consider how much effort it takes you to make even a single copy of yourself and your trillions of cells. To multiply you first need to find another flesh giant that thinks you are cute. Then you need to go through a complicated dance that hopefully leads to the merger of two cells from you two.
+
+And then you need to wait for months and months while the merged cell multiplies over and over and over, until it has become a few trillion cells and is released into the world as a hopefully healthy human. And even then you only have produced a single mini human that is actually pretty weak and needs years of attention and care before it stops being totally useless. It takes even more years before the offspring can repeat the dance and multiply again. Any sort of evolutionary adaptation to a new problem is super slow with our very inefficient ways.
+
+A bacterium consists of one cell. And it can produce another fully grown-up bacterium in about half an hour. Not only does this mean that bacteria can multiply orders of magnitude faster, they also change orders of magnitudes quicker than you can. For a bacterium you are not a person but a hostile ecosystem applying selective pressure. Your immune system can exterminate thousands and millions of them, but by pure random chance from time to time, there will be an individual that adapts to your defenses and becomes a pathogen: A microorganism that causes disease, as we saw in our battle. Worse still, even in the midst of an ongoing infection, the genetic code of invaders can change in ways that make them harder to kill. Bacteria are a lot of things but they are not weak—the most dangerous ones have evolved ingenious ways to avoid our defenses over the years, and, given the chance, they will improve them even more. So against the powerful enemies from the world of microorganisms, you, as a huge mountain of cells simply can’t rely on your innate defenses alone.
+
+And so, to survive these ever-changing enemies that exist in hundreds of millions of varieties, you need something that can adapt . Something specific . A weapon for every single different enemy. And weirdly enough, your immune system has exactly that. But this seems impossible. How can your slow continent of flesh adapt to create specific defenses for each of the millions of different microorganisms and the millions more that don’t even exist yet?
+
+The answer is as simple as it is baffling: The immune system does not so much adapt to new invaders as it already was adapted when you were born. It comes preinstalled with hundreds of millions of different immune cells—a few for every possible threat that you could possibly encounter in this universe. Right now you have at least one cell inside you that is a specific weapon against the Black Death, any variant of the flu, the coronavirus, and the first pathogenic bacteria that will emerge in a city on Mars in one hundred years. You are ready for every possible microorganism in this universe.
+
+What you will now learn may be the most amazing aspect of your immune system. It will take us a few chapters and will introduce not only mind-blowing principles that keep you alive, but also your best defense cells and things like Antibodies, something we hear about quite regularly in the media, especially in the wake of the novel coronavirus.

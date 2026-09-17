@@ -1,0 +1,6 @@
+
+# SS_US_adult_signup_back
+
+
+Simon & Schuster Back Sign-up Page We hope you enjoyed reading this Simon & Schuster ebook. Get a FREE ebook when you join our mailing list. Plus, get updates on new releases, deals, recommended reads, and more from Simon & Schuster. Click below to sign up and see terms and conditions. CLICK HERE TO SIGN UP Already a subscriber? Provide your email again so we can register this ebook and send you more of what you like to read. You will continue to receive exclusive offers in your inbox.
+

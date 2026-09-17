@@ -1,0 +1,17 @@
+# CHAPTER THIRTEEN Artificial intelligence
+
+
+## Implications of AI for individuals
+
+
+In October 2022, the Manga artist Chikae Ide revealed that her new work ‘Poison Love’ was based on her own experience of a romance fraud, possibly powered by deepfake technology. In 2018, Ide was contacted via Facebook by someone claiming to be the actor Mark Ruffalo. Although she was suspicious, the flattering message caught her attention and she agreed to a video call which reassured her. It has been suggested that deepfake technology was used to impersonate Ruffalo on the video call, convincing Ide so fully that the two got unofficially married online before she ended up wiring him a total of 75 million yen, equivalent to $523,200 over three-and-a-half years. She used her savings, auctioned her artwork, delayed paying bills, borrowed money from friends and spent most of the money she earned from a contract with Gucci.20 When I spoke with Ruth Grover about romance scams, we addressed the ways criminals will leverage AI to make their scams more convincing – and how some are already doing so:
+
+‘We always say to people “have a proper video chat, where you can both see each other, you can say something, they answer and you can know they’re real” but with AI they are going to be able to do that. But they’ll still use formats and scripts, they might be able to manipulate technology and make a really good video call but they will still use the same stories, they will still ask for Bitcoin. We can’t depend on the picture or the video to know they’re real, we’ve got to focus on the stories that they tell.’
+
+The methods of scammers often remain the same, even if the medium they use evolves and becomes more sophisticated. Impersonation, social engineering and fraud – whether it is a snake oil sales person travelling from town to town, a phishing email apparently from the boss needing an urgent payment to a new supplier or a deepfake call from an investor to their bank – the mechanisms scammers use may make their scams harder to see as time moves on, but their strategies and motivations often remain constant, with patterns we can become attuned to.
+
+This chapter began with DeStefano’s chilling experience of a deepfake scam that targeted her family. In her testimony she told of how deepfake technology had been used to catapult her into a parent’s worst nightmare, until she discovered it was a cruel deception using AI to attempt to defraud her. She commented on how many other individuals she had heard from, who had experienced a similar scam. But the numbers are impossible to know. What we can be sure of is that what is true at the national and organizational level is true for us as individuals, too. Deepfakes may only currently be appearing in edge cases, but we can expect an increase in deepfake social engineering in coming years.
+
+DeStefano is not the only mother who has hit the headlines with a deepfake experience in recent years. In March 2021, Raffaela Spone from Pennsylvania, US, was accused of sending deepfake videos of her teenage daughter’s cheerleading rivals to the team coach, seemingly in a bid to use videos of the girls naked, drinking and smoking to ruin their reputations.21
+
+However, in this case, it was the deepfake claim – rather than the video itself – which wasn’t as it first appeared.

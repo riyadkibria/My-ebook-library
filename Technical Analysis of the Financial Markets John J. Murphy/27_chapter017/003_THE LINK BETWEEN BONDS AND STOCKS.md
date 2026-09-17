@@ -1,0 +1,6 @@
+# 27_chapter017
+
+## THE LINK BETWEEN BONDS AND STOCKS
+
+
+The stock market is influenced by the direction of interest rates. The direction of interest rates (or yield) can be monitored on a minute-to-minute basis by tracking the movements in the Treasury Bond futures contract. Bond prices move in the opposite direction of interest rates or yields. Therefore, when bond prices are rising, yields are falling. That is normally considered positive for stocks.* Falling bond prices, or rising yields, are considered negative for stocks. From a technician’s point of view, it is very easy to compare the charts of Treasury Bond futures with the charts of either the S&P 500 cash index or its related futures contract. You’ll see that they have generally trended in the same direction. (See Figure 17.2.) On a short term basis, sudden changes in trend in the S&P 500 futures contract are often influenced by sudden changes in the Treasury Bond futures contract. On a longer range basis, changes in the trend of the Treasury Bond contract often warn of similar turns in the S&P 500 cash index itself. In that sense, bond futures can be viewed as a leading indicator for the stock market. Bond futures, in turn, are usually influenced by trends in the commodity markets.

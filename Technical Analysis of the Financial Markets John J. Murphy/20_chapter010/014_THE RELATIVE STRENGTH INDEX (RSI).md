@@ -1,0 +1,18 @@
+# 20_chapter010
+
+## THE RELATIVE STRENGTH INDEX (RSI)
+
+
+The RSI was developed by J. Welles Wilder, Jr. and presented in his 1978 book, New Concepts in Technical Trading Systems. We’re only going to cover the main points here. A reading of the original work by Wilder himself is recommended for a more in-depth treatment. Because this particular oscillator is so popular among traders, we’ll use it to demonstrate most of the principles of oscillator analysis.
+
+As Wilder points out, one of the two major problems in constructing a momentum line (using price differences) is the erratic movement often caused by sharp changes in the values being dropped off. A sharp advance or a decline 10 days ago (in the case of a 10 day momentum line) can cause sudden shifts in the momentum line even if the current prices show little change. Some smoothing is therefore necessary to minimize these distortions. The second problem is that there is the need for a constant range for comparison purposes. The RSI formula not only provides the necessary smoothing, but also solves the latter problem by creating a constant vertical range of 0 to 100.
+
+The term “relative strength,” incidentally, is a misnomer and often causes confusion among those more familiar with that term as it is used in stock market analysis. Relative strength generally means a ratio line comparing two different entities. A ratio of a stock or industry group to the S&P 500 Index is one way of gauging the relative strength of different stocks or industry groups against one objective benchmark. We’ll show you later in the book how useful relative strength or ratio analysis can be. Wilder’s Relative Strength Index doesn’t really measure the relative strength between different entities and, in that sense, the name is somewhat misleading. The RSI, however, does solve the problem of erratic movement and the need for a constant upper and lower boundary. The actual formula is calculated as follows:
+
+Fourteen days are used in the calculation; 14 weeks are used for weekly charts. To find the average up value, add the total points gained on up days during the 14 days and divide that total by 14. To find the average down value, add the total number of points lost during the down days and divide that total by 14. Relative strength (RS) is then determined by dividing the up average by the down average. That RS value is then inserted into the formula for RSI. The number of days can be varied by simply changing the value of x.
+
+Wilder originally employed a 14 day period. The shorter the time period, the more sensitive the oscillator becomes and the wider its amplitude. RSI works best when its fluctuations reach the upper and lower extremes. Therefore, if the user is trading on a very short term basis and wants the oscillator swings to be more pronounced, the time period can be shortened. The time period is lengthened to make the oscillator smoother and narrower in amplitude. The amplitude in the 9 day oscillator is therefore greater than the original 14 day. While 9 and 14 day spans are the most common values used, technicians experiment with other periods. Some use shorter lengths, such as 5 or 7 days, to increase the volatility of the RSI line. Others use 21 or 28 days to smooth out the RSI signals. (See Figures 10.10 and 10.11.)
+
+Figure 10.10 The 14 day Relative Strength Index becomes overbought over 70 and oversold below 30. This chart shows the S&P 100 being oversold in October and overbought during February.
+
+Figure 10.11 The amplitude of the RSI line can be widened by shortening the time period. Notice that the 7 day RSI reaches the outer extremes more frequently than the 14 day RSI. That makes the 7 day RSI more useful to short term traders.

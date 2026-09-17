@@ -1,0 +1,8 @@
+# 28_chapter018
+
+## SAMPLE DATA
+
+
+If you check the Stock Market Data Bank section of The Wall Street Journal (Section C, page 2) each day, you’ll find the following data for the previous trading day. The numbers shown are based on an actual day’s trading results.
+
+The above figures are derived from New York Stock Exchange (NYSE) data. A similar breakdown is also shown for the NASDAQ and the American Stock Exchange. We’ll concentrate on the NYSE in this discussion. It just so happens that on that particular day the Dow Jones Industrial Average had gained 12.20 points. So the market was up as measured by the Dow. However, there were more declining stocks (1,559) than advancing stocks (1,327), suggesting that the broader market didn’t fare as well as the Dow. There was also more declining volume than advancing volume. Those two sets of figures suggest that market breadth was actually negative for that particular day—even though the Dow itself closed higher. The other figures present a more mixed picture. The number of stocks hitting new 52 week highs (78) was greater than those hitting new lows (43) suggesting a positive market environment. However, the closing tick (the number of stocks that closed on an uptick versus a downtick) was a negative, -135. That meant that 135 more stocks closed on a downtick than an uptick, a short term negative factor. The negative closing tick, however, is offset by a closing Arms (Trin) reading of .96 which is mildly positive. We’ll explain why that is later in the chapter. All of these internal market readings have one intended purpose—to give us a more accurate reading on the health of the overall market that isn’t always reflected in the movement of the Dow itself.

@@ -1,0 +1,12 @@
+# 21_chapter011
+
+## P&F MOVING AVERAGES
+
+
+Moving averages are usually applied to bar charts. But here they are on point & figure charts, courtesy of Ken Tower and UST Securities. Tower uses two moving averages on his charts, a 10 column and a 20 column moving average. The dots you see in Figures 11.19 and 11.20 are 10 column averages. These moving averages are constructed by first finding an average price for each column. That is done by simply adding up the prices in each column and dividing the total by the number of x’s or o’s in that column. The resulting numbers are then averaged over 10 and 20 columns. The moving averages are used in the same way as on bar charts.
+
+Figure 11.21 shows two point and figure charts of the same stock with 10 column averages (dots) and 20 column averages (dashes). The bottom chart is a 2.7% reversal logarithmic chart of Royal Dutch Petroleum going back to 1992. Notice that the faster moving average stayed above the slower moving average from 1993 to the 1997 during the four year uptrend. You can see the two moving averages coming together during the second half of 1997 in what turned out to be a consolidation year for that stock. To the far right, you can see that Royal Dutch may be on the verge of resuming its major uptrend. A closer look at that potential upside breakout is seen in the upper chart in Figure 11.21.
+
+The upper chart is a traditional one point reversal linear chart of the same stock. The time frame covered in the linear chart is much shorter than the long chart. But you get a closer look at the late 1997 and early 1998 price action and can see the short term upside breakout at the start of 1998. The stock still needs to close through 60 to confirm a major bullish breakout. The moving averages haven’t been much help during the trading range (they never are), but should begin to trend higher once again if the bullish breakout materializes. By adding moving averages to point and figure charts, Ken Tower brings another valuable technical indicator to p&f charting. The use of logarithmic charts also adds a modern wrinkle to this old charting method.
+
+Figure 11.21 Two point and figure versions of Royal Dutch Petroleum. The bottom chart is a log chart spanning several years. The upper chart is a linear chart for one year. The dots and dashes represent 10 and 20 column moving averages, respectively. (Prepared by UST Securities Corp. Updated through March 26, 1998.)

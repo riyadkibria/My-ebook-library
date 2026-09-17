@@ -1,0 +1,8 @@
+# 26_chapter016
+
+## THE USE OF INTRADAY PIVOT POINTS
+
+
+In order to achieve earlier entry with even tighter protective stops, some traders try to anticipate where a market will close by the use of pivot points. This technique combines seven key price levels with four time periods. The seven pivot points are the previous day’s high, low, and close and the current day’s open, high, low, and close. The four time periods are applied to the current trading day. They are the open, 30 minutes after the open, midday (about 12:30 New York time), and 35 minutes before the close.
+
+These are average times and can be adjusted to the individual markets. The idea is to use pivot points only as a timing device when the trader believes a market is topping or bottoming. Buy or sell signals are given as the pivot points are broken during the day. The later in the day the signal is given, the stronger it is. As an illustration of a buy signal, if the market opens above the previous day’s close, but is below the previous day’s high, a buy stop is placed above the previous day’s high. If the buy stop is elected, a protective sell stop is placed below the current day’s low. At 35 minutes before the close, if no position has been taken, a buy stop is placed above the current day’s high, with a protective stop under today’s open. No action is generally taken during the first 30 minutes of trading. As the day progresses, the pivot points are narrowed as are the protective stops. As a final requirement on a buy signal, prices must close above both the previous day’s closing price and today’s opening price.

@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* I originally recommended career checkups for students to avoid tunnel vision, but I’ve learned that they can also be useful for students at the opposite end of the rethinking spectrum: overthinkers. They often report back that when they’re dissatisfied at work, knowing a reminder will pop up twice a year helps them resist the temptation to think about quitting every day.

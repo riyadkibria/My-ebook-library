@@ -1,0 +1,25 @@
+# CHAPTER FOUR Romance fraud
+
+
+## The impact of romance fraud on victims
+
+
+Romance scams make up a small percentage of fraud overall, with research showing that it accounts for 4 per cent of all (reported) crimes.10 However, the psychological impact on victims can be deeply cruel. Research has found that victims of identity theft experience emotional and physical symptoms. When the crime is romance fraud, this can be even more profound because the impact can be a ‘triple-hit’. Victims experience a financial loss and the loss of a relationship. They can also find themselves the victim of identity theft, with scammers using the information they glean from their targets to pose as them and commit fraud. For Ruth Grover’s work supporting victims, guiding them through this ‘triple-hit’ needs to be done in stages:
+
+‘At the end of every scam, there is a lot of emotion. But, what we have to do is damage limitation. The scam is not just for money. From the first “hello”, it’s “how old are you?” then later “when’s your birthday honey?” and then “I’d like to send you a little present” and so it’s your name, address and date of birth. They’re getting a lot of information for identity theft. And it’s put in such a way that victims never think it’s happened to them. So, we’ve got to ground them [victims] before we can let them grieve, because as we’re getting them out [of the scam], I don’t want them getting whacked with a bank account they didn’t know about, or a credit card or – as one woman got – twelve iPhones from Amazon. So, there’s a bit of practicality you’ve got to deal with and then the money, to each person, is relative.’
+
+People can be traumatized as a result of romance scams, even experiencing post-traumatic stress symptoms, describing the loss as like a ‘death’ and – in some cases – victims report contemplating suicide.11
+
+Having worked in cyber security for over a decade, I have heard from victims of romance fraud on multiple occasions. They have always wanted the communications to remain confidential, carrying a sense of shame that they were ‘fooled’. Society stigmatizes people in that position and many people internalize a sense that they were somehow to blame. This feeling can persist even when the scam was spotted or stopped before any money was defrauded from the victim.
+
+In our conversation about romance fraud and her work advocating for victims, Grover told me about the start of her journey discovering romance fraud and fighting for victims:
+
+‘I always say that I was lucky, because the one [scammer] that I chose to speak to was the worst scammer on earth and he taught me a lot, that it could never have been real… And with my background [working with the police], anytime anybody tells me something, I want proof. I want to know a bit more. I started to do a lot of research in-depth and I was horrified by what I found. Because I put “widowed” on my page, because I had a dead husband, I was a target and that angered me, because you are vulnerable.’
+
+As human beings, we victim-blame as a way to protect ourselves, telling ourselves that a victim is somehow responsible for a crime because we want to convince ourselves that it would never happen to us. It is a very damaging mentality, which causes further harm to a victim, and which lulls the victim-blamer into a false sense of security. As Ajala commented in the wake of her investigation: ‘it can happen to anyone’. Grover expanded on this:
+
+‘I’ve talked to thousands of victims over the years. One hundred per cent of those victims, within the very first part of our conversation, will say “I am so stupid.” And of course, they’re not stupid, nobody asks for this to happen to them, they trust, and you can’t knock yourself for trusting… Nobody breaks their own leg. They’ve had something really bad happen to them, they haven’t done it to themselves.
+
+I have a woman who lost £500,000 to “Eric Clapton”. Speaking to that woman at great length, I came to understand how it happened. You say it and people react, “How could she do that?” but they haven’t listened to “Eric Clapton” talk with them 24/7 and they haven’t known how much he wanted to go on this tour, but his management just wouldn’t give him the money, how awful he felt because he couldn’t do what he wanted to do. She had that all the time, in her head, on her phone, constantly coming to her.
+
+I would like £1 for every time somebody has come to me and said: “I need to tell you, before we talk, I’m educated and intelligent. I never thought it would happen to me”. It depends on what day of your life that the scammer makes contact. On some days, you would not fall for it. But, if they got you on a day that something’s gone wrong, you’re a bit depressed and then you have this nice, smiling, very polite, very sweet, very understanding person wanting to chat to you and you think “you know, that’s just what I need”. Nobody can judge because you don’t know how you would react to it on any given day. I have spoken to victims from every walk of life.’

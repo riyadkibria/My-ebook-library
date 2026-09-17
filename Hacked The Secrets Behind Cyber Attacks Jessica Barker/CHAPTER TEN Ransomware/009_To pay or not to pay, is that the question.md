@@ -1,0 +1,17 @@
+# CHAPTER TEN Ransomware
+
+
+## To pay or not to pay, is that the question?
+
+
+When faced with a ransomware attack, the victim organization must decide whether to pay or not. This is a time of huge pressure, trying to investigate and understand what has happened and what data has been compromised, meanwhile dealing with an impact on business operations which can sometimes reduce an organization to running on pen and paper. At the same time, the organization has to navigate communications with law enforcement, regulators, customers, third parties and perhaps the media. The criminals holding the organization to ransom will be adding more pressure, with a time deadline and communications (even phone calls) with the victim organization as well as partners and journalists. As time ticks on, they will often start publishing some data to up the ante. Even with support from third parties such as incident response specialists, negotiators, intelligence agencies, law enforcement and cyber insurance companies, it is an extremely challenging time.
+
+Amid all of this, the organization will be determining whether to pay the ransom (unless that decision has been agreed and documented ahead of time) and, perhaps, trying to haggle with the criminals or at least stall their threats. For organizations that deliver a vital service, such as healthcare or as in the Colonial Pipeline case, returning to operations as soon as possible is critical. For others, avoiding a catastrophic loss of revenue, minimizing disruption to business operations and limiting negative PR feeds into the decision.
+
+I would never recommend an organization pays the ransom, but I also would not judge those who do make such a difficult decision, with livelihoods and services to consider. However, paying the ransom fuels the business model and the operations of the criminal gangs, enabling the crime to continue to grow. There is an ethical question to answer here, and legal issues must be addressed, too. With the increasing use of sanctions and legislative moves to further prohibit the payment of ransoms, an organization that is considering paying a ransom must address whether they would be breaking the law themselves if they transfer funds to the criminals that are holding their data hostage.
+
+However, paying the ransom often does not mean an end to the troubles. Research from Cybereason surveyed 1,456 cyber security professionals from organizations in ten countries and found some sobering trends. Almost three-quarters said their organization had experienced a ransomware attack in the preceding two years and, of those who paid a ransom, only 42 per cent received a restoration of all systems and data, 54 per cent found that systems issues persisted or some data was still corrupted and 80 per cent were victims of a second attack (68 per cent were hit again in less than a month for a higher ransom).38 Beyond this, with ransomware gangs now stealing a victims’ data as well as locking it up, paying the ransom does not guarantee that they will delete the data as promised – after all, we are relying on the promise of criminals.
+
+The real question we need to answer is how to avoid ransomware in the first place, and how to be prepared for an attack if the worst still happens. As Cooper said in our discussion:
+
+‘Good security and resilience are the only defence we have against ransomware.’

@@ -1,0 +1,15 @@
+# CHAPTER TWELVE Cryptocurrency crime
+
+
+## Cryptocurrency investigations and the return on investment
+
+
+The feasibility of an investigation relies on resources. In many cases of cyber crime, investigation relies on having the people, the technology and the legal resources available. When it comes to cryptocurrency in particular, Hamilton explains why computing power is instrumental:
+
+‘All of these systems rely on computer codes and anything that relies on computer code becomes predictable. It comes down to having enough computing power to look at enough of the blockchain.
+
+And the [cryptocurrency] exchange will have KYC* information, account management information, a government issued ID, a history, what happened to the funds after they entered. So, then you’ve got an ability to keep following the money, and now you have a person as well. You can then go after the money, the person, both or combinations. And that is a two-step process or quite often a three-step process because often you need to go to a second exchange to find out where the money went or where it currently sits. That takes time and money. Law enforcement has limited bandwidth so often private citizens pay for each of those stages: for the legal applications, the investigative support. Whether it’s a government effort or it’s a private effort, there are costs.’
+
+Expertise can be hard to find and expensive to pay for in the investigation of cryptocurrency crime – and cyber crime in general. Investigations often require a huge number of hours of effort. When a large sum of cryptocurrency is at play, investigations are more likely to pass the threshold and become feasible.
+
+In February 2022, the US Department of Justice announced that it had seized over $3.36 billion worth of Bitcoin, the largest law enforcement cryptocurrency seizure to date.10 This case is not just the biggest cryptocurrency seizure to date, it is the biggest financial seizure in the history of the US Department of Justice. Husband and wife Ilya Lichtenstein and Heather Morgan were arrested in New York, US, for an alleged conspiracy to launder cryptocurrency that was stolen during a 2016 hack of Bitfinex, a virtual currency exchange. In the hack, 119,754 Bitcoin was stolen – worth $72 million at the time and $4.5 billion when the couple were arrested in 2022. The 2016 hack, which involved 2,000 transactions being sent into a single wallet, forced Bitfinex to halt all withdrawals and trading, and prompted the value of Bitcoin to plummet 20 per cent in the space of a few hours. In 2017, small amounts of Bitcoin moved to the AlphaBay dark net marketplace in a bid to launder it. AlphaBay was shut down by an FBI-led operation in 2017, which raises the suggestion that law enforcement may have been able to use seized transaction logs to trace the Bitfinex-hacked Bitcoin. Eventually, some of the hacked funds made their way into traditional financial accounts held by Lichtenstein and Morgan. In August 2023, the couple pleaded guilty.

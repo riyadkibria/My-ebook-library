@@ -1,0 +1,39 @@
+# CHAPTER FIVE Cyber fraud
+
+
+## What makes a fraudster?
+
+
+If you have a stereotypical image of a cyber fraudster in mind, Alex Wood is probably not what you’re imagining. For one thing, he is incredibly well-spoken with an accent that would not be out of place in the upper echelons of British society. As it turned out, this accent ended up being part of his criminal endeavours.
+
+When I interviewed Wood, he described an upbringing in a very successful classical musical family. With parents who had highly successful classical music careers, Wood himself played the violin and viola from age four and described a successful youth playing at palaces around Europe (including Buckingham Palace and Windsor Castle), recording professionally and appearing on movie soundtracks. In his early 20s, Wood recounts how his lucrative music career came crashing down with a painful diagnosis of RSI. He regards this as ‘very much a turning point in life’ where he should – in hindsight – have taken a different path.
+
+Instead, he started down a road of criminality to maintain the expensive lifestyle that his music career had afforded him:
+
+‘The first fraud was convincing friends of friends to invest in a completely nonsense, worthless company that I’d set up. And they didn’t realize at that point that I’d stopped playing. They saw me as a success with this big flat in Canary Wharf and this nice lifestyle, fast cars and so on. So, it was quite easy. I think I scammed about £50,000 in total, but it was a very crude fraud. It was very, very poorly thought out. I didn’t know anything about fraud then. I didn’t know that the police would look into my bank accounts and see where it had all gone and trace it and freeze it all. It was quite an easy task for them to unravel it.’
+
+Wood received a three-year sentence for this first offence and went to prison. He – and his family – were shocked, and he describes what he believes, in hindsight, was ‘some form of a breakdown’. He served his sentence but, when he was released, he found it hard to make an honest living, as he shared with me:
+
+‘I think a lot of businesses would hire an ex-drug dealer or an ex-violent offender rather than a fraudster because ultimately businesses care about their bottom line. And the idea that somebody might dupe them or steal money is quite worrying. So, I found it really tough [to get a job] and I had a couple of forays into entrepreneurship which didn’t go anywhere. I didn’t know what the hell I was doing. I drifted about for a few years and did hardly anything, achieved nothing and then eventually found myself homeless.’
+
+Wood describes being evicted from his flat for failing to pay the rent, grabbing a few clothes and his laptop and charger. He ended up at Heathrow Airport, sleeping on a bench and trying to blend in with weary travellers, while he worked out what to do next. He searched online for a hostel, but all were at least twice the price of the £4 he had in his pocket. As he scrolled a hotel booking site online, his search took him from hostels to more-and-more expensive options:
+
+‘I went to the bottom of the list and there was Claridge’s Hotel. And I was looking at it yearningly. I thought, if I could just have that beautiful, warm bed and be in that luxurious suite for a night, you know what I’d give? So then I thought, ‘well, f**k it, give it a try’. I set up a fake email account, I didn’t really think it through properly, but I set up a fake email account saying that I was Lord Wood’s personal diary secretary. He normally stays at the Ritz. His normal suite’s busy these next few days so we’d like him to possibly stay at Claridge’s and be happy to talk about making a more permanent arrangement if he’s happy with the accommodation.
+
+And I just fired this off thinking nothing would happen. I didn’t even have an email signature on it. It was very, very crude, just an Outlook account. The name I chose was something like Quentin Bingham-Smythe. So, it sounded like this super posh diary secretary, potentially plausible.
+
+I thought they were either gonna ignore it or say “eff off”. But 10 minutes later the laptop went “ping”. And there’s this email from Claridge’s VIP manager saying, “it will be wonderful to welcome His Grace to stay with us”.
+
+I couldn’t believe it. I thought it was a joke. Anyway, I emailed back because obviously I realized I can’t pay anything. I said we’ll have the same payment arrangement he has with the Ritz because I realized they’re competitive, they’re not gonna check. So, invoice after checkout, 30 days, and they’re like, “no problem, that’s fine, we’ll do that”.’
+
+Wood describes being welcomed as a VIP at Claridge’s, widely regarded as London’s most exclusive hotel. And thus began a five-month period in which Wood hopped between the finest hotels in London masquerading as aristocracy. His scheme came undone – for the first time – when one of the hotels smelled a rat. They Googled his latest assumed identity – Lord Jamie Spencer, the thirteenth Duke of Marlborough – and discovered that the real Duke of Marlborough was decades older than the man who had checked in. Wood was arrested, interviewed, and bailed late at night. Undeterred, he picked up where he left off, heading back to another luxury London hotel but this time pretending to be an employee of British Airways, knowing that the airline would have a commercial agreement with the biggest hotels in London. He continued for another few months before law enforcement again caught up with him and, because he had offended on bail, he was sentenced to three-and-a-half years in prison.
+
+To some extent, this is where Wood’s story really begins. He is sent to Wandsworth Prison for the second time – described by an independent board as ‘unsafe and inhumane’1 – where he met Muhammed Azhar, who had been imprisoned for his involvement in a £113 million fraud, reported at the time to be Britain’s biggest (known) fraud.2 Wood described what happened next:
+
+‘I met my eventual co-defendant, and we had similar release dates, but he was in for cyber fraud, APP fraud. I knew nothing about APP fraud at this point. It was a Pakistani OCN* and they wanted a Western caller. He identified me as being well-spoken, well-educated, quick thinking and said, “you’d be ideal”. And he said we know how we got caught, we’re not going to do the same thing again. We’re going to change it so we won’t get caught. He said “you can make millions in a few months. So just come and work with us, do six months’ work and then just retire for the rest of your life”.
+
+I thought “F**k it, why not?”. And I realize that’s outrageous. But at the time the default position was that the banks always refunded if the victim could show that they were genuinely duped by somebody phoning with the bank’s number and so on. So, I was thinking, “well the victim is going to be the bank then, right?” It felt like a victimless crime. I realized the bank is getting hit and sure, therefore the account holders. But I was thinking “well, banks have budgets for this, they have reasonable loss expectations”.
+
+He [Azhar] said, “when you come out, I’ll pick you up in a Rolls Royce and we’ll go and start work together”. And he did. There was a f**king Rolls Royce Phantom there outside Wandsworth when I got released.
+
+Then we started doing this scam together and the first day we stole £100,000 off this law firm. That night or the next night I had my cut delivered. I think I had like £40,000 or £35,000 cash in a suitcase and I was thinking, you know, before I came into prison on this sentence, I had a few pound coins in my pocket and now I’ve got £30–40k in £50 notes in the suitcase. I was thinking I can do a few of those and just buy my way out of the sh*t I was in.’

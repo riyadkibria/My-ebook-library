@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* The stock market impact of soccer losses is the subject of extensive debate: although a number of studies have demonstrated the effect, others have failed to support it. My hunch is that it’s more likely to occur in countries where the sport is most popular, the team is expected to win, the match is high stakes, and the loss is a near miss. Regardless of how sports influence markets, we know they can affect moods. One study of European military officers showed that when their favorite soccer team loses on Sunday, they’re less engaged at work on Monday—and their performance might suffer as a result.

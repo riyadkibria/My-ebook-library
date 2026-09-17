@@ -1,0 +1,6 @@
+# 29_chapter019
+
+## MARKET TECHNICIANS ASSOCIATION (MTA)
+
+
+The Market Technicians Association (MTA) is the oldest and best known technical society in the world. It was founded in 1972 to encourage the exchange of technical ideas, educate the public and the investment community, and establish a code of ethics and professional standards among technical analysts. (On March 11, 1998 the MTA celebrated the 25th birthday of its incorporation. The event was highlighted by a special presentation at the New York monthly meeting by three of the organization’s founding members—Ralph Acampora, John Brooks, and John Greeley.) MTA membership includes full-time technical analysts and other interested parties (called affiliates). Monthly meetings are held in New York (Market Technicians Association, Inc., One World Trade Center, Suite 4447, New York, NY 10048 (212) 912-0995, e-mail: shelleymta@aol.com), and an annual seminar is held each May at various locations around the country. Members have access to the MTA library and a computer bulletin board. A monthly newsletter and a periodic MTA Journal are published. Some regional chapters have even been formed. MTA members also become colleagues of the International Federation of Technical Analysts (IFTA).

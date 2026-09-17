@@ -1,0 +1,11 @@
+# CHAPTER TEN Ransomware
+
+
+## Big game hunting in ransomware
+
+
+The evolution of ransomware highlights the extent to which cyber crime is now big business. Until the mid-2010s, ransomware was automated and the criminals behind it were focused on hitting lots of smaller targets for lower sums. Phishing emails with malicious attachments were sent out in ‘spray and pray’ style attacks, where criminals would rely on enough people infecting their systems via the malicious attachments to pay the few hundred dollars in Bitcoin each. Up until 2017–18, ransomware largely hit home computer users and small businesses were the most common victims. It seemed a sneaky and successful approach: go for the low-hanging fruit with spray and pray automated attacks, attaching a low fee to the ransom, and bank on the fact that enough people will pay to get their data back to make the effort more than worthwhile. But then, some ransomware gangs realized they could hunt lions, not just mice, and make a much greater return on investment. Rather than only aiming at smaller targets for lower ransom demands, they could seek out the big fish, for much greater ransom payments. Ransomware gangs pivoted towards targeting large corporations that are more likely to pay a huge sum if their operations come to a screeching halt with a ransomware attack.
+
+Switching from automated ransomware campaigns to human-operated ones, the attackers could also embed themselves more deeply in a network and move laterally through an organization to get greater command and control. This approach is less noisy and more nuanced, so the attackers could look for valuable data enabling them to pivot their tactics away from simply encrypting data and into double extortion methods. Analysis shows that ransomware operators have extorted at least $449.1 million from January to June in 2023, putting them on track for their second most lucrative year.19
+
+However, this does not mean that smaller targets are impervious to ransomware, with data showing that many ransomware gangs still successfully focus on small attacks, with RaaS strains Dharma, Phobos and Stop/djvu used in unsophisticated spray and pray attacks against smaller targets, with average payouts for these strains in 2023 ranging from $265 to $1,719.20

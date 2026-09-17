@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* Climatologists go further, noting that within denial there are at least six different categories: arguing that (1) CO2 is not increasing; (2) even if CO2 is increasing, warming is not happening; (3) even if warming is happening, it’s due to natural causes; (4) even if humans are causing warming, the impact is minimal; (5) even if the human impact is not trivial, it will be beneficial; and (6) before the situation becomes truly dire, we’ll adapt or solve it. Experiments suggest that giving science deniers a public platform can backfire by spreading false beliefs, but rebutting their arguments or their techniques can help.

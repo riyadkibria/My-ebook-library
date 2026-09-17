@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* If you choose to make fun of yourself out loud, there’s evidence that how people react depends on your gender. When men make self-deprecating jokes, they’re seen as more capable leaders, but when women do it, they’re judged as less capable. Apparently, many people have missed the memo that if a woman pokes fun at herself, it’s not a reflection of incompetence or inadequacy. It’s a symbol of confident humility and wit.

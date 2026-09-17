@@ -1,0 +1,26 @@
+# 23 Antibodies
+
+## How Do B Cells Know What Sort of Antibody to Make
+
+
+Now you may ask yourself: If there are so many different types and variants, how do B Cells know what sort of antibody is needed? After all, the different classes of Antibodies do very different jobs very well but are pretty useless at others.
+
+We said before that the Dendritic Cells carry snapshots from the battlefield to provide context. This snapshot of the context at the site of infection is then communicated to the Helper T Cell. As time moves on, new Dendritic Cell snapshots with different contexts arrive from the battlefield. And so what was right at some point of an infection might change over time.
+
+So B Cells are not locked into making a certain class of Antibody—they always start with IgM but can switch the Antibody type if the Helper T Cell asks and encourages them to! Having a nasty cold or a gut infection and need a lot of antibodies in your snot or stool? Make IgA! Having a parasitic worm in your intestines? Make IgE! A lot of bacteria have infected a wound? Make IgG flavor one! There are a lot of virus-infected cells? Please, more IgG flavor three! (Once an Antibody class has been switched there is no going back though.)
+
+The amazing ability to collect and communicate intel on this level of ingenuity is another testament to the stunning brilliance and beauty of the great concert of the immune system. All the parts working together, changing and working and coordinating, without any single part being conscious or aware.
+
+OK! You are done with the first section of the book! You learned so much about so many different parts of yourself! You also finished the hardest part of the book! Let’s take a big step back for a moment to reflect on what we’ve learned so far.
+
+We learned about the scope of your body, your cells, and some of your most common enemies, bacteria. About your soldier and guard cells that guard your insides, the mechanisms they use to identify and kill invaders, and how they use inflammation to prepare the battlefields of your body. We learned how your cells recognize things and how they communicate with each other. We explored the complement system that saturates every fluid in your body. We learned about your surveillance cells that get help when necessary. We learned about your internal infrastructure and how your body has billions of different weapons made by recombination, how these superweapons are deployed and improved upon through mutation. And of course we learned about your first line of defense, your skin, and what a hellhole it is.
+
+But if you think about it, compared to other diseases, how often do you hear about people getting sick from infected wounds or skin infections? The reality is that our skin is so effective as a defense perimeter, that usually pathogens are easily repelled here. Most of the infections that you will consciously deal with in your life will enter your body elsewhere, in another kingdom. A kingdom that has to solve one of the hardest conundrums of your entire defense network. And it is the place where your most dangerous enemies strike you.
+
+Skip Notes
+
+*1 What do we mean when we say that an Antibody “neutralizes” a virus? Well, imagine your cells are a subway train and the virus a passenger that wanted to get inside. This is usually fairly easy for the virus, just pass one of the automated ticket barriers and enter through one of the doors. An Antibody is basically grabbing and covering up the ticket of the virus so it can’t pass the ticket barrier and is stuck outside. The more Antibodies attach to the ticket, the more impossible it becomes to get to the train. And so it is neutralized, unable to do anything of consequence. A passenger stranded at the station.
+
+*2 OK, OK, there are five antibody classes in humans but we are going to ignore the poor IgD Antibody because it is not relevant for anything we are talking about in this book. In a nutshell, IgD can help with activating a bunch of immune cells and whatnot. But I think we had enough details already and this is not that important. But there you have it, a footnote to a headline!
+
+*3 We mentioned before that your spleen is a sort of lymph node for your blood but there is more! This tiny organ is the main source for superfast responding IgM Antibodies in your blood. A sort of emergency base that can react fast if pathogens like bacteria make it into your blood flow, via an injury for example. The spleen filters your blood and when it finds enemies here it can quickly activate B Cells that rapidly make IgM Antibodies. Sure, they are not optimized like the other Antibody classes, but they are available extremely quickly, which is important when you have invaders in your blood—that gives a pathogen access to the whole body! This is one of the things that makes your spleen so important. This mechanism was discovered after wars, where due to severe injuries to the torso, people often had their spleens removed. It turned out that many of them died of sepsis later in life, at much higher rates than the rest of the population. Nowadays, if your spleen is damaged, say in a car crash, doctors try to save as much of it as possible.

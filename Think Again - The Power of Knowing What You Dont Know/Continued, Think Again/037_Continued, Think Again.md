@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* It’s possible to change even your deep-seated beliefs while keeping your values intact. Psychologists recently compared people who walked away from their religions with those who were currently religious and never religious. Across Hong Kong, the Netherlands, New Zealand, and the United States, they found a religious residue effect: people who de-identified with religion were just as likely to keep volunteering, and gave more money to charity than those who were never religious.

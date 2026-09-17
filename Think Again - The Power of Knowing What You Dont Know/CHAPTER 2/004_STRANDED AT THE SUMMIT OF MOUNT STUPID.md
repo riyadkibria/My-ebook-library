@@ -1,0 +1,26 @@
+# CHAPTER 2
+
+## STRANDED AT THE SUMMIT OF MOUNT STUPID
+
+
+The problem with armchair quarterback syndrome is that it stands in the way of rethinking. If we’re certain that we know something, we have no reason to look for gaps and flaws in our knowledge—let alone fill or correct them. In one study, the people who scored the lowest on an emotional intelligence test weren’t just the most likely to overestimate their skills. They were also the most likely to dismiss their scores as inaccurate or irrelevant—and the least likely to invest in coaching or self-improvement.
+
+Yes, some of this comes down to our fragile egos. We’re driven to deny our weaknesses when we want to see ourselves in a positive light or paint a glowing picture of ourselves to others. A classic case is the crooked politician who claims to crusade against corruption, but is actually motivated by willful blindness or social deception. Yet motivation is only part of the story. *
+
+There’s a less obvious force that clouds our vision of our abilities: a deficit in metacognitive skill, the ability to think about our thinking. Lacking competence can leave us blind to our own incompetence. If you’re a tech entrepreneur and you’re uninformed about education systems, you can feel certain that your master plan will fix them. If you’re socially awkward and you’re missing some insight on social graces, you can strut around believing you’re James Bond. In high school, a friend told me I didn’t have a sense of humor. What made her think that? “You don’t laugh at all my jokes.” I’m hilarious . . . said no funny person ever. I’ll leave it to you to decide who lacked the sense of humor.
+
+When we lack the knowledge and skills to achieve excellence, we sometimes lack the knowledge and skills to judge excellence. This insight should immediately put your favorite confident ignoramuses in their place. Before we poke fun at them, though, it’s worth remembering that we all have moments when we are them.
+
+We’re all novices at many things, but we’re not always blind to that fact. We tend to overestimate ourselves on desirable skills, like the ability to carry on a riveting conversation. We’re also prone to overconfidence in situations where it’s easy to confuse experience for expertise, like driving, typing, trivia, and managing emotions. Yet we underestimate ourselves when we can easily recognize that we lack experience—like painting, driving a race car, and rapidly reciting the alphabet backward. Absolute beginners rarely fall into the Dunning-Kruger trap. If you don’t know a thing about football, you probably don’t walk around believing you know more than the coach.
+
+It’s when we progress from novice to amateur that we become overconfident. A bit of knowledge can be a dangerous thing. In too many domains of our lives, we never gain enough expertise to question our opinions or discover what we don’t know. We have just enough information to feel self-assured about making pronouncements and passing judgment, failing to realize that we’ve climbed to the top of Mount Stupid without making it over to the other side.
+
+You can see this phenomenon in one of Dunning’s experiments that involved people playing the role of doctors in a simulated zombie apocalypse. When they’ve seen only a handful of injured victims, their perceived and actual skills match. Unfortunately, as they gain experience, their confidence climbs faster than their competence, and confidence remains higher than competence from that point on.
+
+This might be one of the reasons that patient mortality rates in hospitals seem to spike in July, when new residents take over. It’s not their lack of skill alone that proves hazardous; it’s their overestimation of that skill.
+
+Advancing from novice to amateur can break the rethinking cycle. As we gain experience, we lose some of our humility. We take pride in making rapid progress, which promotes a false sense of mastery. That jump-starts an overconfidence cycle, preventing us from doubting what we know and being curious about what we don’t. We get trapped in a beginner’s bubble of flawed assumptions, where we’re ignorant of our own ignorance.
+
+That’s what happened in Iceland to Davíð Oddsson, whose arrogance was reinforced by cronies and unchecked by critics. He was known to surround himself with “ fiercely loyal henchmen” from school and bridge matches, and to keep a checklist of friends and enemies. Months before the meltdown, Oddsson refused help from England’s central bank. Then, at the height of the crisis, he brashly declared in public that he had no intention of covering the debts of Iceland’s banks. Two years later an independent truth commission appointed by Parliament charged him with gross negligence. Oddsson’s downfall, according to one journalist who chronicled Iceland’s financial collapse, was “ arrogance, his absolute conviction that he knew what was best for the island.”
+
+What he lacked is a crucial nutrient for the mind: humility. The antidote to getting stuck on Mount Stupid is taking a regular dose of it. “ Arrogance is ignorance plus conviction,” blogger Tim Urban explains. “While humility is a permeable filter that absorbs life experience and converts it into knowledge and wisdom, arrogance is a rubber shield that life experience simply bounces off of.”

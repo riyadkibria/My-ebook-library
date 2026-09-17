@@ -1,0 +1,13 @@
+# CHAPTER TWO Account compromise
+
+
+## SMS 2FA
+
+
+Two-factor authentication (2FA, sometimes also referred to as MFA – multi-factor authentication) is a way of adding another layer of security to online accounts, so that they do not just rely on passwords. When we set up 2FA, we must provide two different authentication methods to verify our identity: something we know, such as a password, and something we have, which is most commonly a one-time code which is sent to your mobile phone via text message. Using this method of 2FA is more secure than simply relying on a password to secure your account.
+
+However, this method is vulnerable to an attack known as SIM swapping. In a SIM swap attack, criminals contact your mobile provider and socially engineer them into activating another SIM with your number attached. In this way, they take control of your phone communications by routing your phone to a SIM in their possession and so 2FA codes sent to your phone are now sent to them. In 2022, reports to the FBI reflected victim losses of over $70 million associated with SIM swap attacks.6
+
+In December 2021, Nicholas Truglia pleaded guilty in a New York court to conspiracy to commit wire fraud, as part of his role in a group alleged to have stolen more than $100 million from cryptocurrency investors using SIM swapping scams. Truglia admitted that he had been part of a scheme to steal over $20 million worth of cryptocurrency from Michael Terpin, a cryptocurrency investor and co-founder of the first angel investor group for Bitcoin enthusiasts.7 Truglia had convinced an AT&T employee to transfer Terpin’s phone number onto a new SIM, which meant that he and his associates could breach Terpin’s accounts, accessing his email and cryptocurrency wallet passwords. With this information, they stole Terpin’s funds and moved the currency into Truglia’s own cryptocurrency wallet.
+
+Court documents suggest that Truglia lived a life of luxury from the proceeds of his crimes, with expensive watches, a $6,000 a month apartment and $100,000 in cash kept on hand. In a Twitter account which supposedly belonged to him, he bragged of SIM swapping his father and lamented, ‘stole 24 million but still can’t keep a friend’.8 The documents also suggest he boasted to friends, ‘Nobody can put me in jail. I would bet my life on it, actually’.9 In December 2022, Truglia was sentenced to 18 months in prison for the SIM swap attack and theft of Terpin’s cryptocurrency; he was also ordered to return the stolen funds to the victim within 60 days. In January 2023, Truglia was released from jail and went to live with his father in Florida. Four months after his release, he was arrested again for alleged fraudulent activities alongside carrying a concealed weapon.

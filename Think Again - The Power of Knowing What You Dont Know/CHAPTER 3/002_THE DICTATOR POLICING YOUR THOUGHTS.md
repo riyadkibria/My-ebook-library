@@ -1,0 +1,30 @@
+# CHAPTER 3
+
+## THE DICTATOR POLICING YOUR THOUGHTS
+
+
+When our son was five, he was excited to learn that his uncle was expecting a child. My wife and I both predicted a boy, and so did our son. A few weeks later, we found out the baby would be a girl. When we broke the news to our son, he burst into tears. “Why are you crying?” I asked. “Is it because you were hoping your new cousin would be a boy?”
+
+“No!” he shouted, pounding his fists on the floor. “Because we were wrong!”
+
+I explained that being wrong isn’t always a bad thing. It can be a sign that we’ve learned something new—and that discovery itself can be a delight.
+
+This realization didn’t come naturally to me. Growing up, I was determined to be right. In second grade I corrected my teacher for misspelling the word lightning as lightening . When trading baseball cards I would rattle off statistics from recent games as proof that the price guide was valuing players inaccurately. My friends found this annoying and started calling me Mr. Facts. It got so bad that one day my best friend announced that he wouldn’t talk to me until I admitted I was wrong. It was the beginning of my journey to become more accepting of my own fallibility.
+
+In a classic paper, sociologist Murray Davis argued that when ideas survive, it’s not because they’re true—it’s because they’re interesting. What makes an idea interesting is that it challenges our weakly held opinions. Did you know that the moon might originally have formed inside a vaporous Earth out of magma rain? That a narwhal’s tusk is actually a tooth? When an idea or assumption doesn’t matter deeply to us, we’re often excited to question it. The natural sequence of emotions is surprise (“Really?”) followed by curiosity (“Tell me more!”) and thrill (“Whoa!”). To paraphrase a line attributed to Isaac Asimov, great discoveries often begin not with “Eureka!” but with “That’s funny . . .”
+
+When a core belief is questioned, though, we tend to shut down rather than open up. It’s as if there’s a miniature dictator living inside our heads, controlling the flow of facts to our minds, much like Kim Jong-un controls the press in North Korea. The technical term for this in psychology is the totalitarian ego, and its job is to keep out threatening information.
+
+It’s easy to see how an inner dictator comes in handy when someone attacks our character or intelligence. Those kinds of personal affronts threaten to shatter aspects of our identities that are important to us and might be difficult to change. The totalitarian ego steps in like a bodyguard for our minds, protecting our self-image by feeding us comforting lies. They’re all just jealous. You’re really, really, ridiculously good-looking. You’re on the verge of inventing the next Pet Rock. As physicist Richard Feynman quipped, “ You must not fool yourself—and you are the easiest person to fool.”
+
+Our inner dictator also likes to take charge when our deeply held opinions are threatened. In the Harvard study of attacking students’ worldviews, the participant who had the strongest negative reaction was code-named Lawful. He came from a blue-collar background and was unusually precocious, having started college at sixteen and joined the study at seventeen. One of his beliefs was that technology was harming civilization, and he became hostile when his views were questioned. Lawful went on to become an academic, and when he penned his magnum opus, it was clear that he hadn’t changed his mind. His concerns about technology had only intensified:
+
+The Industrial Revolution and its consequences have been a disaster for the human race. They have greatly increased the life-expectancy of those of us who live in “advanced” countries, but they have destabilized society, have made life unfulfilling, have subjected human beings to indignities . . . to physical suffering as well . . . and have inflicted severe damage on the natural world.
+
+The Industrial Revolution and its consequences have been a disaster for the human race. They have greatly increased the life-expectancy of those of us who live in “advanced” countries, but they have destabilized society, have made life unfulfilling, have subjected human beings to indignities . . . to physical suffering as well . . . and have inflicted severe damage on the natural world.
+
+That kind of conviction is a common response to threats. Neuroscientists find that when our core beliefs are challenged, it can trigger the amygdala, the primitive “lizard brain” that breezes right past cool rationality and activates a hot fight-or-flight response. The anger and fear are visceral: it feels as if we’ve been punched in the mind. The totalitarian ego comes to the rescue with mental armor. We become preachers or prosecutors striving to convert or condemn the unenlightened. “ Presented with someone else’s argument, we’re quite adept at spotting the weaknesses,” journalist Elizabeth Kolbert writes, but “the positions we’re blind about are our own.”
+
+I find this odd, because we weren’t born with our opinions. Unlike our height or raw intelligence, we have full control over what we believe is true. We choose our views, and we can choose to rethink them any time we want. This should be a familiar task, because we have a lifetime of evidence that we’re wrong on a regular basis. I was sure I’d finish a draft of this chapter by Friday. I was certain the cereal with the toucan on the box was Fruit Loops, but I just noticed the box says Froot Loops. I was sure I put the milk back in the fridge last night, but strangely it’s sitting on the counter this morning.
+
+The inner dictator manages to prevail by activating an overconfidence cycle. First, our wrong opinions are shielded in filter bubbles, where we feel pride when we see only information that supports our convictions. Then our beliefs are sealed in echo chambers, where we hear only from people who intensify and validate them. Although the resulting fortress can appear impenetrable, there’s a growing community of experts who are determined to break through.

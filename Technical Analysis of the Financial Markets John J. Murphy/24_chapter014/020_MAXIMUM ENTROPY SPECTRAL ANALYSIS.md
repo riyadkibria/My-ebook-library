@@ -1,0 +1,6 @@
+# 24_chapter014
+
+## MAXIMUM ENTROPY SPECTRAL ANALYSIS
+
+
+The search for the right dominant cycles in any market is complicated by the belief that cycle lengths aren’t static; in other words, they keep changing over time. What worked a month ago may not work a month from now. In his book, MESA and Trading Market Cycles, John Ehlers uses a statistical approach called Maximum Entropy Spectral Analysis (MESA). Ehlers explains that one of the main advantages of MESA is its high-resolution measurement of cycles with relatively small time periods, which is crucial for shorter term trading. Ehlers also explains how cycles can be used to optimize moving average lengths and many of the oscillator-type indicators we’ve already mentioned. Uncovering cycles allows for the dynamic adjusting of technical indicators to fit current market conditions. Ehlers also addresses the problem of distinguishing between a market in a cycle mode versus one that is in a trend mode. When a market is in a trend mode, a trend-following indicator like a moving average is needed to implement trades. A cycle mode would favor the use of oscillator-type indicators. Cycle measurement can help determine which mode the market is currently in, and which type of technical indicator is more appropriate to use for trading strategies.

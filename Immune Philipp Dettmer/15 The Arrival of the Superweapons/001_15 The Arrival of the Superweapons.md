@@ -1,0 +1,30 @@
+# 15 The Arrival of the Superweapons
+
+## 15 The Arrival of the Superweapons
+
+
+Back at the rusty nail battlefield, the first dendritic messengers, armed with snapshots and information, left days ago, an eternity in cell time. The soldiers of the Innate Immune System have been fighting the pathogenic soil bacteria that invaded your tissue vigorously, all this time. By now they must have killed millions of them. Pushing them back over and over, only for the bacteria to spread into more surrounding tissue and resurge with fresh forces. The battlefield is a chaos of dead civilian and soldier cells, NETS erected by Neutrophils (you know, these suicide traps that literally look like nets), toxins and feces of bacteria, alarm signals, and spent complement proteins. Death is everywhere. Millions of immune cells have fought to their demise. All in all, the Innate Immune System will probably win this battle eventually. But it might take weeks and victory is far from certain as there is still the possibility that the immune system will lose and that the invaders will make their way deeper into the flesh giant, causing more mayhem and destruction.
+
+Exhausted by a seemingly endless war, a spent Macrophage slowly moves over the battlefield looking for bacteria to kill. But it is almost done. The Macrophage is so, so tired. All it wants to do is to stop fighting and give up, embrace the sweet kiss of death, and go to sleep forever. It is about to do so, but then it notices something. Thousands of new cells arrive at the battlefield and spread out quickly. But these are not soldiers.
+
+These are Helper T Cells!
+
+Specialist cells from the Adaptive Immune System were forged just for this particular battle and they exist only to fight this specific soil bacterium that has been giving the soldiers so much trouble! One of these Helper T Cells moves around a bit, sniffing and taking in the environment. It seems to collect itself for a moment. And then it moves directly towards the tired Macrophage and whispers something, using special cytokines to convey its message. Suddenly a jolt of energy shoots through the Macrophage’s bloated body. In a heartbeat, its spirit comes back and it feels fresh again. But there is something else: A hot, white anger. The Macrophage knows what it needs to do: Kill bacteria, right now! Invigorated, it throws itself against the enemies to rip them into pieces. All over the battlefield this begins to happen as Helper T Cells whisper magic words to tired soldiers, motivating them to get themselves together and engage the bacteria again, with even more violence than before.
+
+But this is not all that is happening. Something weird is going on. Another tiny army—this time directly made by the Adaptive Immune System—has joined the fight. Counting in the millions, it floods the battlefield, dashing against the enemies. The specialist forces of the Antibodies have arrived! Although they are made from proteins just like complement, antibodies are very different.
+
+If complement fights like warriors with clubs and claws, antibodies fight like assassins with sniper rifles. In this case, their purpose is to maim and disarm this exact kind of bacteria that is present right now at the site of infection. There is no escape this time. Bacteria hiding behind cells or trying to escape begin to jerk around as they are being swamped by thousands of antibodies attaching to them. Even worse, multiple bacteria are glued together, unable to move or flee.
+
+With help from the Antibodies, your soldiers can suddenly see them much more clearly and they now seem much more tasty than before, now that they have been opsonized.
+
+Even the complement system now seems to be more aggressive than before, as it once again begins attacking and ripping holes into victims. What had been a desperate and brutal battle for days now turns into a one-sided slaughter very quickly. The pathogenic bacteria have nothing to counter the coordinated tactic of the immune system. Step by step they are eradicated and exterminated without mercy.
+
+At some point the last panicked bacterium is devoured whole by the once-tired Macrophage. The battle is won. Now the cytokine whisper of the T Cells slowly subsides and the Macrophages start to feel tired. The soldiers around it, mostly Neutrophils that fought so bravely, start killing themselves. Their presence is no longer needed and they know that they would do more harm than good moving forward. The remains of their bodies are cleaned up by fresh young Macrophages that will take their place as the new guardians of the tissue.
+
+Their first job is to help the civilian cells to heal the wound by sending encouraging messages that motivate them to rebuild. Most of the Helper T Cells join the controlled mass suicide but some remain at the former site of infection and settle in to protect the tissue from a future attack.
+
+The inflammation retracts and blood vessels constrict again, while the excess fluid leaves the now-former battlefield, transported away through the lymphatic vessels. The bloated tissue constricts slowly to its former dimensions. The damaged tissue is already regrowing, young civilian cells take the place of the fallen. Regeneration is on its way.
+
+On the human scale, a few days after your unfortunate encounter with the rusty nail, you wake up and notice that your toe is much better. The swelling has gone away, the wound has grown over and left nothing but a faint red mark. Business as usual. Wounds heal, no big deal. You were completely unaware of the drama your cells had to deal with. For you, the whole ordeal was a slight annoyance, while for millions of your cells it was a desperate fight of life and death. They did their duty and gave their lives to protect you.
+
+What happened here? How were the reinforcements from the Adaptive Immune System able to swing the situation at the battlefield so massively and decisively that the bacteria were wiped out? And while you certainly don’t want to complain, how come your immune system took its sweet time to get there?

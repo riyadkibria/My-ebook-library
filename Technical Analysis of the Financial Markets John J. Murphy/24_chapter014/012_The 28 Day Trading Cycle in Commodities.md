@@ -1,0 +1,10 @@
+# 24_chapter014
+
+## The 28 Day Trading Cycle in Commodities
+
+
+There is one important short term cycle that tends to influence most commodity markets—the 28 day trading cycle. In other words, most markets have a tendency to form a trading cycle low every 4 weeks. One possible explanation for this strong cyclic tendency throughout all commodity markets is the lunar cycle. Burton Pugh studied the 28 day cycle in the wheat market in the 1930s (Science and Secrets of Wheat Trading, Lambert-Gann, Pomeroy, WA, 1978, orig., 1933) and concluded that the moon had some influence on market turning points. His theory was that wheat should be bought on a full moon and sold on a new moon. Pugh acknowledged, however, that the lunar effects were mild and could be overridden by the effects of longer cycles or important news events.
+
+Whether or not the moon has anything to do with it, the average 28 day cycle does exist and explains many of the numbers used in the development of shorter term indicators and trading systems. First of all, the 28 day cycle is based on calendar days. Translated into actual trading days, the number becomes 20. We’ve already commented on how many popular moving averages, oscillators, and weekly rules are based on the number 20 and its harmonically related shorter cycles, 10 and 5. The 5, 10, and 20 day moving averages are widely used along with their derivatives, 4, 9, and 18. Many traders use 10 and 40 day moving averages, with the number 40 being the next harmonically related longer cycle at twice the length of 20.
+
+In Chapter 9, we discussed the profitability of the 4 week rule developed by Richard Donchian. Buy signals were generated when a market set new 4 week highs and a sell signal when a 4 week low was established. Knowledge of the existence of a 4 week trading cycle gives a better insight into the significance of that number and helps us to understand why the 4 week rule has worked so well over the years. When a market exceeds the high of the previous 4 weeks, cycle logic tells us that, at the very least, the next longer cycle (the 8 week cycle) has bottomed and turned up.

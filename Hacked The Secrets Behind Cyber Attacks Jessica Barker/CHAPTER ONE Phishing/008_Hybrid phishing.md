@@ -1,0 +1,15 @@
+# CHAPTER ONE Phishing
+
+
+## Hybrid phishing
+
+
+Phishing messages can reach us in a variety of ways: via increasingly sophisticated emails, text messages, social media, and messaging platforms such as WhatsApp. It is also important to understand that multiple communication channels can be used, and these are the most convincing of all attacks.
+
+As we have improved our defences against phishing – both in terms of greater awareness and better technical controls keeping phishing emails, in particular, at bay – criminals have realized that sending an email or message prompting the victim to call them is one way to evade those defences. PayPal payment requests are one sneaky form of hybrid phishing. Criminals use legitimate PayPal accounts to send targets money requests – which are also a legitimate feature of PayPal. They send a large number of these out to random PayPal accounts, relying on a spray-and-pray approach. They make it look to the recipient as if the payment is for a genuine product or service, but it is a bogus purchase – one that the recipient never made. If the recipient pays the money request, the criminals will be happy. But they know that lots of people will realize they did not make the purchase. So, the criminals include a number for the recipient to call if they do not think the payment is legitimate. They are relying on people making that call, where they trick the caller into sharing personal and financial data, for example by posing as PayPal’s fraud department.
+
+Criminals do not just stick to one form of phishing, but increasingly use multiple methods to manipulate us. This was the case with the cyber crime group that Spain’s National Police disrupted in October 2023, when they arrested 34 criminals who they allege were responsible for phishing campaigns over email, voicemail and SMS texts. Upon their arrest, police seized two simulated firearms, a katana sword, $84,736 in cash, luxury vehicles and a database of personal information belonging to four million people. Over 1,000 complaints had been filed about their scams, with over $3 million stolen from victims.41
+
+It is an unfortunate reality of cyber crime that, as we evolve our defences, criminals morph their tactics to find their way around our controls. As time moves on, we will see more hybrid phishing, more phishing beyond email and we can expect to see more use of artificial intelligence in phishing campaigns which – as covered in the AI chapter – has already begun. Hybrid phishing is increasingly being used in business email compromise; for example, with the fraudsters making a phone call to warm up their victim, building rapport and trust, before sending a phishing email confirming the fund transfer request. Adding in AI abilities, for example with deepfake voice imitations, only makes this more convincing.
+
+However, there are effective steps we can all take to guard against phishing. Our best defence starts with being aware of how cyber criminals operate and the fundamental behaviours we can practice to stop them in their tracks.

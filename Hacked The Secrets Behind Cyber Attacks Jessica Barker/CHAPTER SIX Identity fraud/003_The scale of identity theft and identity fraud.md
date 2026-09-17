@@ -1,0 +1,11 @@
+# CHAPTER SIX Identity fraud
+
+
+## The scale of identity theft and identity fraud
+
+
+Identity fraud encompasses identity theft: identity theft is the theft of personal or financial information and identity fraud is the use of that stolen information. Identity fraud is the use of false identifiers (false or fraudulent documents) or a stolen identity (identity theft) to commit a crime. It often begins with a ‘breeder document’, such as a driver’s licence or birth certificate, which criminals obtain or create using stolen or fabricated identification data, such as date of birth and government identity numbers (such as passport number or Social Security number). This ‘breeder document’ is then used to create other documents to enable the creation of a credible identity, providing a criminal with an identity they can use to get credit cards, set up bank accounts, access information, apply for mortgages, make purchases and much more. They can use this identity to commit criminal activity, such as human smuggling (as in Estok’s case), human trafficking, money muling, drug trafficking, cyber crime, terrorism and more.
+
+In the UK, identity fraud hit an all-time high in 2022, with cases increasing by a quarter that year. Over 277,000 cases of identity fraud were recorded in 2022, which is the highest number of cases ever recorded.6 Most victims of identity theft are over 31 years of age and statistics also show that there has been a significant rise in victims over 61 years of age.7
+
+Although older adults are the most common target of identity theft, people of all ages can become victims, including children. Children’s details, such as their name and government-issued identification such as Social Security number, are attractive to cyber criminals because the crime has more potential to go undetected for a longer period, for example until the child is old enough to apply for their first loan or credit card. Research suggests that one million children in the United States were the victim of identity theft in 2017.8

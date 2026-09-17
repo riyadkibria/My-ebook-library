@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* Had thought earlier about showing my edits throughout the book, but didn’t want to inflict that on you. Slogging through half-baked ideas and falsified hypotheses wouldn’t be the best use of your time. Even if you’re a huge fan of Hamilton , you probably wouldn’t love the first draft—it’s much more exciting to engage with the product of rethinking than the process.

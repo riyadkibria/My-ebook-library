@@ -1,0 +1,15 @@
+# CHAPTER FOUR Romance fraud
+
+
+## Introduction
+
+
+Romance scams work because we are all human and we can all be manipulated. These scams exploit people who are lonely or looking for love. It’s easy to think ‘it would never happen to me’ or ‘I would never fall for that’ – and these kinds of comments are regularly left on videos I share about romance fraud on YouTube – but the truth is that many of the scammers who run these operations have a knack for homing in on people at their most vulnerable. These operations are also professional, being run by experienced fraudsters who share their strategies and tactics with one another. When it comes to romance scams, many people fail to appreciate the time and effort that scammers will put into laying the foundation of the scam. Before asking for money, it is most common that these criminals will ensure their target feels that they are in an established and genuine relationship.
+
+This is why romance fraud is such a big problem. In 2022, nearly 70,000 Americans reported a romance scam, and reported losses hit $1.3 billion.1 According to these reports, the average loss for each victim was $4,400.2 Statistics from the UK suggest that the average financial loss for victims in 2022 was £11,796, an increase from £4,720 in 2021.3 These numbers are only the tip of the iceberg. For a case to be counted in these statistics, the victim needs to be aware that the crime took place (and not still caught up in the scam) and they need to report it to the authorities. Many scam victims do not report the crime to the government, perhaps because they feel a misplaced sense of shame or because they simply do not know who to report the crime to.
+
+Ruth Grover started ScamHaters United in 2014 as a Facebook page, to raise awareness of romance fraud and to support victims. Her husband, having retired from the police force, had passed away and Ruth, a former police dispatcher, had eventually updated her Facebook profile to ‘widow’. Very shortly afterwards, she told me – with a smile in her voice – she ‘started being very attractive to four-star generals in the US Army!’ – a common cover story for romance scammers. Since then, she and her team of volunteers have supported thousands of victims. The ScamHaters United website – where people can search the name of a new online contact to see if the name has been associated with a scam – has had over 8 million hits, sharing resources to help people understand these crimes as well as crowd-sourcing information on known fraudsters. The group’s Facebook page now has 67,000 followers, with a further 28,000 followers on Instagram and over 34,000 subscribers on YouTube.
+
+When it comes to the scale of romance fraud, Grover states:
+
+‘This crime is so huge, it is unquantifiable. And yet, still, nobody talks about it.’

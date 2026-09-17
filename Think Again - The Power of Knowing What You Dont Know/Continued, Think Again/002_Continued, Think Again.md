@@ -1,0 +1,6 @@
+# Continued, Think Again
+
+## Continued, Think Again
+
+
+* In building a team, there are some dimensions where fit is important and others where misfit adds value. Research suggests that we want people with dissimilar traits and backgrounds but similar principles. Diversity of personality and experience brings fresh ideas for rethinking and complementary skills for new ways of doing. Shared values promote commitment and collaboration.

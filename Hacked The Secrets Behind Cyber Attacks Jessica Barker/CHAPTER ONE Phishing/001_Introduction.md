@@ -1,0 +1,7 @@
+# CHAPTER ONE Phishing
+
+
+## Introduction
+
+
+Tens of thousands of computers were wiped by cyber criminals. Employees were forced to rely on pen, paper and typewriters as their computers were taken offline. This organization – a global energy company – had been hacked. And it started with phishing. The attackers sent 250 phishing emails to the target company. The phishing emails got through the filters and landed in the in-boxes of 250 people and, of those, 80 clicked the link. In this case, clicking the link didn’t do any damage by itself. But the link took those 80 people to a website that prompted them to enter their usernames and passwords for the company systems. Of the 80 people who visited the page, there were 8 who entered their credentials, and the attackers used those 8 sets of credentials to get access to the company network every day for several months. The email filtering systems had not spotted the phishing emails, so they were able to get through. The pretext in the emails convinced enough people that they were legitimate. Monitoring alerted the cyber security team to unusual IP addresses on the network, but they did not escalate the incident. The attackers were behind the digital perimeter, able to move further across and into the network for the next two months before they launched the attack that took company operations down.
