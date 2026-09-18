@@ -1,0 +1,328 @@
+# Finding Transformations
+
+
+**Source File:**
+
+None
+
+
+**Word Count:**
+
+None
+
+
+
+---
+
+Topic 30
+
+Topic 30
+
+If you can’t describe what you are doing as a process, you don’t know what you’re doing. W. Edwards Deming , (attr)
+
+If you can’t describe what you are doing as a process, you don’t know what you’re doing.
+
+If you can’t describe what you are doing as a process, you don’t know what you’re doing.
+
+W. Edwards Deming , (attr)
+
+W. Edwards Deming
+
+, (attr)
+
+All programs transform data, converting an input into an output. And yet when we think about design, we rarely think about creating transformations. Instead we worry about classes and modules, data structures and algorithms, languages and frameworks.
+
+We think that this focus on code often misses the point: we need to get back to thinking of programs as being something that transforms inputs into outputs. When we do, many of the details we previously worried about just evaporate. The structure becomes clearer, the error handling more consistent, and the coupling drops way down.
+
+To start our investigation, let’s take the time machine back to the 1970s and ask a Unix programmer to write us a program that lists the five longest files in a directory tree, where longest means “having the largest number of lines.”
+
+You might expect them to reach for an editor and start typing in C. But they wouldn’t, because they are thinking about this in terms of what we have (a directory tree) and what we want (a list of files). Then they’d go to a terminal and type something like:
+
+This is a series of transformations:
+
+find . -type f
+
+Write a list of all the files ( -type f ) in or below the current directory ( . ) to standard output.
+
+-type f
+
+xargs wc -l
+
+Read lines from standard input and arrange for them all to be passed as arguments to the command wc -l . The wc program with the -l option counts the number of lines in each of its arguments and writes each result as “count filename” to standard output.
+
+wc -l
+
+sort -n
+
+Sort standard input assuming each line starts with a number ( -n ), writing the result to standard output.
+
+tail -5
+
+Read standard input and write just the last five lines to standard output.
+
+Run this in our book’s directory and we get
+
+That last line is the total number of lines in all the files (not just those shown), because that’s what wc does. We can strip it off by requesting one more line from tail , and then ignoring the last line:
+
+tail
+
+Figure 1. The find pipeline as a series of transformations
+
+Figure 1. The find pipeline as a series of transformations
+
+find
+
+Let’s look at this in terms of the data that flows between the individual steps. Our original requirement, “top 5 files in terms of lines,” becomes a series of transformations (also show in the figure ).
+
+directory name → list of files → list with line numbers → sorted list → highest five + total → highest five
+
+It’s almost like an industrial assembly line: feed raw data in one end and the finished product (information) comes out the other.
+
+And we like to think about all code this way.
+
+Sometimes the easiest way to find the transformations is to start with the requirement and determine its inputs and outputs. Now you’ve defined the function representing the overall program. You can then find steps that lead you from input to output. This is a top-down approach.
+
+top-down
+
+For example, you want to create a website for folks playing word games that finds all the words that can be made from a set of letters. Your input here is a set of letters, and your output is a list of three-letter words, four-letter words, and so on:
+
+"lvyin" is transformed to → 3 => ivy, lin, nil, yin 4 => inly, liny, viny 5 => vinyl
+
+"lvyin" is transformed to → 3 => ivy, lin, nil, yin 4 => inly, liny, viny 5 => vinyl
+
+3 => ivy, lin, nil, yin 4 => inly, liny, viny 5 => vinyl
+
+(Yes, they are all words, at least according to the macOS dictionary.)
+
+The trick behind the overall application is simple: we have a dictionary which groups words by a signature, chosen so that all words containing the same letters will have the same signature. The simplest signature function is just the sorted list of letters in the word. We can then look up an input string by generating a signature for it, and then seeing which words (if any) in the dictionary have that same signature.
+
+signature,
+
+Thus the anagram finder breaks down into four separate transformations:
+
+anagram finder
+
+3 => ivy, lin, nil, yin 4 => inly, liny, viny 5 => vinyl
+
+Let’s start by looking at step 1, which takes a word and creates a list of all combinations of three or more letters. This step can itself be expressed as a list of transformations:
+
+We’ve now reached the point where we can easily implement each transformation in code (using Elixir in this case):
+
+function-pipelines/anagrams/lib/anagrams.ex
+
+Elixir, along with many other functional languages, has a pipeline operator, sometimes called a forward pipe or just a pipe . [41] All it does is take the value on its left and insert it as the first parameter of the function on its right, so
+
+forward pipe
+
+pipe
+
+is the same as writing
+
+(Other languages may inject this piped value as the last parameter of the next function—it largely depends on the style of the built-in libraries.)
+
+last
+
+You might think that this is just syntactic sugar. But in a very real way the pipeline operator is a revolutionary opportunity to think differently. Using a pipeline means that you’re automatically thinking in terms of transforming data; each time you see |> you’re actually seeing a place where data is flowing between one transformation and the next.
+
+Many languages have something similar: Elm, and F# have |> , Clojure has -> and ->> (which work a little differently), R has %>% . Haskell both has pipe operators and makes it easy to declare new ones. As we write this, there’s talk of adding |> to JavaScript.
+
+->>
+
+%>%
+
+If your current language supports something similar, you’re in luck. If it doesn’t, see ​ Language X Doesn’t Have Pipelines ​ .
+
+Anyway, back to the code.
+
+Now look at Step 2 of the main program, where we convert the subsets into signatures. Again, it’s a simple transformation—a list of subsets becomes a list of signatures:
+
+Step 2
+
+The Elixir code in the following listing is just as simple:
+
+function-pipelines/anagrams/lib/anagrams.ex
+
+Now we transform that list of signatures: each signature gets mapped to the list of known words with the same signature, or nil if there are no such words. We then have to remove the nils and flatten the nested lists into a single level:
+
+nil
+
+nils
+
+function-pipelines/anagrams/lib/anagrams.ex
+
+Step 4, grouping the words by length, is another simple transformation, converting our list into a map where the keys are the lengths, and the values are all words with that length:
+
+function-pipelines/anagrams/lib/anagrams.ex
+
+Language X Doesn't Have Pipelines Pipelines have been around for a long time, but only in niche languages. They’ve only moved into the mainstream recently, and many popular languages still don’t support the concept. The good news is that thinking in transformations doesn’t require a particular language syntax: it’s more a philosophy of design. You still construct your code as transformations, but you write them as a series of assignments: ​ ​ const ​ content = File.read(file_name); ​ ​ const ​ lines = find_matching_lines(content, pattern) ​ ​ const ​ result = truncate_lines(lines) It’s a little more tedious, but it gets the job done.
+
+Language X Doesn't Have Pipelines
+
+Pipelines have been around for a long time, but only in niche languages. They’ve only moved into the mainstream recently, and many popular languages still don’t support the concept. The good news is that thinking in transformations doesn’t require a particular language syntax: it’s more a philosophy of design. You still construct your code as transformations, but you write them as a series of assignments: ​ ​ const ​ content = File.read(file_name); ​ ​ const ​ lines = find_matching_lines(content, pattern) ​ ​ const ​ result = truncate_lines(lines) It’s a little more tedious, but it gets the job done.
+
+Pipelines have been around for a long time, but only in niche languages. They’ve only moved into the mainstream recently, and many popular languages still don’t support the concept.
+
+The good news is that thinking in transformations doesn’t require a particular language syntax: it’s more a philosophy of design. You still construct your code as transformations, but you write them as a series of assignments:
+
+It’s a little more tedious, but it gets the job done.
+
+We’ve written each of the individual transformations. Now it’s time to string them all together into our main function:
+
+function-pipelines/anagrams/lib/anagrams.ex
+
+Does it work? Let’s try it:
+
+iex(1)>
+
+Let’s look at the body of the main function again:
+
+It’s simply a chain of the transformations needed to meet our requirement, each taking input from the previous transformation and passing output to the next. That comes about as close to literate code as you can get.
+
+But there’s something deeper, too. If your background is object-oriented programming, then your reflexes demand that you hide data, encapsulating it inside objects. These objects then chatter back and forth, changing each other’s state. This introduces a lot of coupling, and it is a big reason that OO systems can be hard to change.
+
+In the transformational model, we turn that on its head. Instead of little pools of data spread all over the system, think of data as a mighty river, a flow . Data becomes a peer to functionality: a pipeline is a sequence of code → data → code → data…. The data is no longer tied to a particular group of functions, as it is in a class definition. Instead it is free to represent the unfolding progress of our application as it transforms its inputs into its outputs. This means that we can greatly reduce coupling: a function can be used (and reused) anywhere its parameters match the output of some other function.
+
+flow
+
+Yes, there is still a degree of coupling, but in our experience it’s more manageable than the OO-style of command and control. And, if you’re using a language with type checking, you’ll get compile-time warnings when you try to connect two incompatible things.
+
+So far our transforms have worked in a world where nothing goes wrong. How can we use them in the real world, though? If we can only build linear chains, how can we add all that conditional logic that we need for error checking?
+
+There are many ways of doing this, but they all rely on a basic convention: we never pass raw values between transformations. Instead, we wrap them in a data structure (or type) which also tells us if the contained value is valid. In Haskell, for example, this wrapper is called Maybe . In F# and Scala it’s Option .
+
+Maybe
+
+Option
+
+How you use this concept is language specific. In general, though, there are two basic ways of writing the code: you can handle checking for errors inside your transformations or outside them.
+
+Elixir, which we’ve used so far, doesn’t have this support built in. For our purposes this is a good thing, as we get to show an implementation from the ground up. Something similar should work in most other languages.
+
+We need a representation for our wrapper (the data structure that carries around a value or an error indication). You can use structures for this, but Elixir already has a pretty strong convention: functions tend to return a tuple containing either {:ok, value} or {:error, reason} . For example, File.open returns either :ok and an IO process or :error and a reason code:
+
+{:ok, value}
+
+{:error, reason}
+
+File.open
+
+:ok
+
+:error
+
+iex(1)>
+
+iex(2)>
+
+We’ll use the :ok / :error tuple as our wrapper when passing things through a pipeline.
+
+:ok
+
+:error
+
+Let’s write a function that returns all the lines in a file that contain a given string, truncated to the first 20 characters. We want to write it as a transformation, so the input will be a file name and a string to match, and the output will be either an :ok tuple with a list of lines or an :error tuple with some kind of reason. The top-level function should look something like this:
+
+:ok
+
+:error
+
+function-pipelines/anagrams/lib/grep.ex
+
+There’s no explicit error checking here, but if any step in the pipeline returns an error tuple then the pipeline will return that error without executing the functions that follow. [42] We do this using Elixir’s pattern matching:
+
+function-pipelines/anagrams/lib/grep.ex
+
+Have a look at the function find_matching_lines . If its first parameter is an :ok tuple, it uses the content in that tuple to find lines matching the pattern. However, if the first parameter is not an :ok tuple, the second version of the function runs, which just returns that parameter. This way the function simply forwards an error down the pipeline. The same thing applies to truncate_lines .
+
+find_matching_lines
+
+:ok
+
+not
+
+:ok
+
+truncate_lines
+
+We can play with this at the console:
+
+iex>
+
+iex>
+
+iex>
+
+You can see that an error anywhere in the pipeline immediately becomes the value of the pipeline.
+
+You might be looking at the find_matching_lines and truncate_lines functions thinking that we’ve moved the burden of error handling into the transformations. You’d be right. In a language which uses pattern matching in function calls, such as Elixir, the effect is lessened, but it’s still ugly.
+
+find_matching_lines
+
+truncate_lines
+
+It would be nice if Elixir had a version of the pipeline operator |> that knew about the :ok / :error tuples and which short-circuited execution when an error occurred. [43] But the fact that it doesn’t allows us to add something similar, and in a way that is applicable to a number of other languages.
+
+:ok
+
+:error
+
+The problem we face is that when an error occurs we don’t want to run code further down the pipeline, and that we don’t want that code to know that this is happening. This means that we need to defer running pipeline functions until we know that previous steps in the pipeline were successful. To do this, we’ll need to change them from function calls into function values that can be called later. Here’s one implementation:
+
+calls
+
+values
+
+function-pipelines/anagrams/lib/grep1.ex
+
+The and_then function is an example of a bind function: it takes a value wrapped in something, then applies a function to that value, returning a new wrapped value. Using the and_then function in the pipeline takes a little extra punctuation because Elixir needs to be told to convert function calls into function values, but that extra effort is offset by the fact that the transforming functions become simple: each just takes a value (and any extra parameters) and returns {:ok, new_value} or {:error, reason} .
+
+and_then
+
+bind
+
+and_then
+
+{:ok, new_value}
+
+{:error, reason}
+
+Thinking of code as a series of (nested) transformations can be a liberating approach to programming. It takes a while to get used to, but once you’ve developed the habit you’ll find your code becomes cleaner, your functions shorter, and your designs flatter.
+
+Give it a try.
+
+Topic 8, ​ The Essence of Good Design ​
+
+Topic 17, ​ Shell Games ​
+
+Topic 26, ​ How to Balance Resources ​
+
+Topic 28, ​ Decoupling ​
+
+Topic 35, ​ Actors and Processes ​
+
+Exercise 21 ( possible answer )
+
+Can you express the following requirements as a top-level transformation? That is, for each, identify the input and the output.
+
+Shipping and sales tax are added to an order
+
+Your application loads configuration information from a named file
+
+Someone logs in to a web application
+
+Exercise 22 ( possible answer )
+
+You’ve identified the need to validate and convert an input field from a string into an integer between 18 and 150. The overall transformation is described by
+
+Write the individual transformations that make up validate & convert .
+
+validate & convert
+
+Exercise 23 ( possible answer )
+
+In ​ Language X Doesn’t Have Pipelines ​ we wrote:
+
+Many people write OO code by chaining together method calls, and might be tempted to write this as something like:
+
+What’s the difference between these two pieces of code? Which do you think we prefer?
+
