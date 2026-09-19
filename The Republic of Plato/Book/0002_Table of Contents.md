@@ -1,0 +1,46 @@
+# Table of Contents
+
+
+**Source File:**
+
+None
+
+
+**Word Count:**
+
+None
+
+
+
+---
+
+THE REPUBLIC OF PLATO
+
+PREFACE.
+
+INTRODUCTION AND ANALYSIS.
+
+THE REPUBLIC.
+
+BOOK I
+
+BOOK II.
+
+BOOK III.
+
+BOOK IV.
+
+BOOK V.
+
+BOOK VI.
+
+BOOK VII.
+
+BOOK VIII.
+
+BOOK IX.
+
+BOOK X.
+
+INDEX.
+
